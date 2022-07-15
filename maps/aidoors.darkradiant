@@ -2,17 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1196" } 
-		KeyValue { "LastCameraAngle" "1.8 358.2 0" } 
-		KeyValue { "LastCameraPosition" "-102.936 -1512.23 -15.0524" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/editor/aasobstacle" } 
+		KeyValue { "EditTimeInSeconds" "2618" } 
+		KeyValue { "LastCameraAngle" "-11.4 189.6 0" } 
+		KeyValue { "LastCameraPosition" "209.711 -1195.82 27.0982" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/blocks_darksheen_smooth" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 1196 }
-	}
-	SelectionSets
-	{
+		TotalSecondsEdited { 2618 }
 	}
 	Layers
 	{
@@ -41,7 +38,23 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (ambient_world)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (info_player_start_1)
 		Node { 0 } // entity (watch_station_gate)
 		Node { 0 } // brush (Brush)
@@ -145,6 +158,28 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_1)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_ai_proguard_1)
+		Node { 0 } // entity (watch_station_gate2)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (func_static_2)
+		Node { 0 } // entity (func_static_3)
+		Node { 0 } // entity (lever1)
+		Node { 0 } // entity (atdm_ai_townsfolk_commoner_2)
+		Node { 0 } // entity (path_flee_point_1)
+		Node { 0 } // entity (ambient_world)
+		Node { 0 } // entity (func_static_4)
+		Node { 0 } // entity (door_96x48x3hinge_1)
+		Node { 0 } // entity (doorhandle_96x48x3hinge_1)
+		Node { 0 } // entity (atdm_door_handling_position_1)
 	}
 	SelectionGroups
 	{
@@ -152,30 +187,50 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 1599 { "" }
 		SelectionGroup 1600 { "" }
 		SelectionGroup 1601 { "" }
+		SelectionGroup 1602 { "" }
+		SelectionGroup 1603 { "" }
+		SelectionGroup 1609 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
-		Node { ( 3 20 ) ( 1599 ) } // brush (Brush)
-		Node { ( 3 21 ) ( 1599 ) } // brush (Brush)
-		Node { ( 3 22 ) ( 1599 ) } // brush (Brush)
-		Node { ( 3 23 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 24 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 25 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 26 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 27 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 28 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 29 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 3 30 ) ( 1597 1599 ) } // patch (Patch)
-		Node { ( 4 31 ) ( 1600 ) } // brush (Brush)
-		Node { ( 4 32 ) ( 1600 ) } // brush (Brush)
-		Node { ( 4 33 ) ( 1600 ) } // brush (Brush)
-		Node { ( 4 34 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 35 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 36 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 37 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 38 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 39 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 40 ) ( 1601 1600 ) } // patch (Patch)
-		Node { ( 4 41 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 2 37 ) ( 1599 ) } // brush (Brush)
+		Node { ( 2 38 ) ( 1599 ) } // brush (Brush)
+		Node { ( 2 39 ) ( 1599 ) } // brush (Brush)
+		Node { ( 2 40 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 41 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 42 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 43 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 44 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 45 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 46 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 2 47 ) ( 1597 1599 ) } // patch (Patch)
+		Node { ( 3 48 ) ( 1600 ) } // brush (Brush)
+		Node { ( 3 49 ) ( 1600 ) } // brush (Brush)
+		Node { ( 3 50 ) ( 1600 ) } // brush (Brush)
+		Node { ( 3 51 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 52 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 53 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 54 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 55 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 56 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 57 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 3 58 ) ( 1601 1600 ) } // patch (Patch)
+		Node { ( 79 62 ) ( 1602 ) } // brush (Brush)
+		Node { ( 79 63 ) ( 1602 ) } // brush (Brush)
+		Node { ( 79 64 ) ( 1602 ) } // brush (Brush)
+		Node { ( 79 65 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 66 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 67 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 68 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 69 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 70 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 71 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 79 72 ) ( 1603 1602 ) } // patch (Patch)
+		Node { ( 80 ) ( 1609 ) } // entity (func_static_2)
+		Node { ( 81 ) ( 1609 ) } // entity (func_static_3)
+		Node { ( 82 ) ( 1609 ) } // entity (lever1)
+	}
+	SelectionSets
+	{
 	}
 }
