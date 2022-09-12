@@ -1,0 +1,31 @@
+textures/water_source/fs_water_stream_fast
+{
+
+	qer_editorimage textures/water_source/w_c_ed
+	discrete  // no visible effect
+	nonsolid
+	water
+	twosided
+
+    // removing this seems to have no effect
+	translucent
+
+	{
+		vertexProgram HeatHazeWithMaskAndDepth.vfp    // removing this seems to have no effect (removing both this and fragmentProgram causes console warning and black surface)
+		vertexParm 0 0, time * ((( parm5 + 0.1) - (( parm5 || 0) * 0.1)) * 20)  // think these are just for the wave height/speed
+		vertexParm 1 ((( parm6 + 1.5) - (( parm6 || 0) * 1.5)) * 4.7)
+		fragmentProgram HeatHazeWithMaskAndDepth.vfp  // removing this seems to have no effect
+		fragmentMap 0 _currentRender                  // removing this makes it white/multi-coloured
+		fragmentMap 1 textures/sfx/vp1                // remoing causes broken rendering effects
+		fragmentMap 2 textures/water_source/vp_water  // removing makes it invisible
+		fragmentMap 3 _currentDepth                   // removing this causes weird rendering effects
+	}
+
+	{
+		blend blend
+        map textures/darkmod/sfx/black_matt
+		alpha 0.5
+	}
+
+
+}

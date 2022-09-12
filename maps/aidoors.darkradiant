@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "2618" } 
-		KeyValue { "LastCameraAngle" "-11.4 189.6 0" } 
-		KeyValue { "LastCameraPosition" "209.711 -1195.82 27.0982" } 
+		KeyValue { "EditTimeInSeconds" "2814" } 
+		KeyValue { "LastCameraAngle" "-20.4 182.4 0" } 
+		KeyValue { "LastCameraPosition" "392.037 -1257.7 7.48908" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/blocks_darksheen_smooth" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 2618 }
+		TotalSecondsEdited { 2814 }
 	}
 	Layers
 	{
@@ -180,6 +180,12 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (door_96x48x3hinge_1)
 		Node { 0 } // entity (doorhandle_96x48x3hinge_1)
 		Node { 0 } // entity (atdm_door_handling_position_1)
+		Node { 0 } // entity (func_static_5)
+		Node { 0 } // entity (func_static_6)
+		Node { 0 } // entity (lever2)
+	}
+	SelectionSets
+	{
 	}
 	SelectionGroups
 	{
@@ -190,6 +196,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 1602 { "" }
 		SelectionGroup 1603 { "" }
 		SelectionGroup 1609 { "" }
+		SelectionGroup 1612 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -229,8 +236,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 80 ) ( 1609 ) } // entity (func_static_2)
 		Node { ( 81 ) ( 1609 ) } // entity (func_static_3)
 		Node { ( 82 ) ( 1609 ) } // entity (lever1)
-	}
-	SelectionSets
-	{
+		Node { ( 90 ) ( 1612 ) } // entity (func_static_5)
+		Node { ( 91 ) ( 1612 ) } // entity (func_static_6)
+		Node { ( 92 ) ( 1612 ) } // entity (lever2)
 	}
 }

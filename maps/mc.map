@@ -1,0 +1,1408 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -200 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.0195312497089617 0.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 -512 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.01953124970896172 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -512 ) ( ( 0.0195312497089617 0 -0.125 ) ( 0 0.0195312497089617 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.0195312497089617 0 -0.1875 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -512 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 192 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.0195312497089617 0.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.0195312497089617 0.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 -520 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.01953124970896172 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -512 ) ( ( 0.0195312497089617 0 -0.125 ) ( 0 0.0195312497089617 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -512 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 512 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.01953124970896172 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.0195312497089617 0.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 -512 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.01953124970896172 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -520 ) ( ( 0.0195312497089617 0 -0.125 ) ( 0 0.0195312497089617 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.0195312497089617 0 -0.1875 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 512 ) ( ( 0.0195312497089617 0 -0.125 ) ( 0 0.0195312497089617 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 1 0 -512 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.01953124970896172 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -512 ) ( ( 0.0195312497089617 0 -0.125 ) ( 0 0.0195312497089617 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -328 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.0195312497089617 0 -0.1875 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -512 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 4
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.0195312497089617 0.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -512 ) ( ( 0.0195312497089617 0 -0.125 ) ( 0 0.0195312497089617 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -520 ) ( ( 0.0195312497089617 0 -0.1875 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -512 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 512 ) ( ( 0.0195312497089617 0 -0.1875 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 5
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.0195312497089617 0.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 -512 ) ( ( 0.0195312497089617 0 -0.375 ) ( 0 0.01953124970896172 0.06250001490116119 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -512 ) ( ( 0.0195312497089617 0 -0.1875 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -520 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 512 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0.0625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 6
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 -0.6249999906867743 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 0 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 -4.440892098500626e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -8 ) ( ( 0.0195312497089617 0 -4.843749927822501 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 7
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 3.749999944120646 ) ( 0 0.0195312497089617 -0.6249999906867743 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 192 ) ( ( 0.0195312497089617 0 4.440892098500626e-16 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -128 ) ( ( 0.0195312497089617 0 3.749999944120617 ) ( 0 0.0195312497089617 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 3.749999944120646 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -200 ) ( ( 0.0195312497089617 0 -4.8437499278225 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -128 ) ( ( 0.0195312497089617 0 -3.749999944120646 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 8
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 8 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 120 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 9
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 120 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -192 ) ( ( 0.0195312497089617 0 -8.881784197001252e-16 ) ( 0 0.0195312497089617 -1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 120 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 10
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 -6.38378239159465e-16 ) ( 0 0.0195312497089617 4.843749927822492 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 8 ) ( ( 0.0195312497089617 0 -4.8437499278225 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 120 ) ( ( 0.0195312497089617 0 3.608224830031759e-16 ) ( 0 0.0195312497089617 -8.881784197001252e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 -6.38378239159465e-16 ) ( 0 0.0195312497089617 -4.843749927822499 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -64 ) ( ( 0.0195312497089617 0 4.843749927822513 ) ( 0 0.0195312497089617 -5.329070518200751e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -128 ) ( ( 0.0195312497089617 0 -2.775557561562891e-17 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 11
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 6.661338147750939e-15 ) ( 0 0.0195312497089617 4.843749927822522 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 120 ) ( ( 0.0195312497089617 0 -4.8437499278225 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 120 ) ( ( 0.0195312497089617 0 4.440892098500626e-16 ) ( 0 0.0195312497089617 -8.881784197001252e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.0195312497089617 0 -2.042810365310288e-14 ) ( 0 0.0195312497089617 -4.843749927822496 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -192 ) ( ( 0.0195312497089617 0 4.843749927822503 ) ( 0 0.0195312497089617 3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -128 ) ( ( 0.0195312497089617 0 -4.440892098500626e-16 ) ( 0 0.0195312497089617 8.881784197001252e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 12
+{
+brushDef3
+{
+( 0 0 1 184 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 0 ) ( ( 0.0195312497089617 0 2.220446049250313e-16 ) ( 0 0.01953124970896175 2.220446049250313e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -128 ) ( ( 0.0195312497089617 0 9.103828801926284e-15 ) ( 0 0.01953124970896175 -1.820765760385257e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -192 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -200 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.01953124970896175 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 13
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -216 ) ( ( 0.0195312497089617 0 -2.220446049250313e-15 ) ( 0 0.0195312497089617 -4.440892098500626e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -120 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 120 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 14
+{
+brushDef3
+{
+( 0 0 1 192 ) ( ( 0.01953124970896169 0 4.884981308350689e-15 ) ( 0 0.0195312497089617 4.843749927822497 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 64 ) ( ( 0.0195312497089617 0 -4.843749927822529 ) ( 0 0.0195312497089617 2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 120 ) ( ( 0.0195312497089617 0 2.220446049250313e-15 ) ( 0 0.0195312497089617 -1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -216 ) ( ( 0.01953124970896169 0 -3.996802888650564e-15 ) ( 0 0.0195312497089617 -4.843749927822491 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -120 ) ( ( 0.0195312497089617 0 4.843749927822529 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -128 ) ( ( 0.01953124970896169 0 3.108624468950438e-15 ) ( 0 0.0195312497089617 -1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+}
+}
+// primitive 15
+{
+brushDef3
+{
+( 0 0 1 216 ) ( ( 0.03906249941792339 0 -0.15625 ) ( 0 0.03906249941792339 0.9999999999999911 ) ) "textures/common/monster_clip" 0 0 0
+( 0 1 0 64 ) ( ( 0.03906249941792339 0 0 ) ( 0 0.03906249941792339 0.0625 ) ) "textures/common/monster_clip" 0 0 0
+( 1 0 0 -128 ) ( ( 0.03906249941792339 0 -0.9999999999999987 ) ( 0 0.03906249941792339 0.0625 ) ) "textures/common/monster_clip" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.03906249941792339 0 -2.220446049250313e-15 ) ( 0 0.03906249941792339 0.9999999999999956 ) ) "textures/common/monster_clip" 0 0 0
+( 0 -1 0 -120 ) ( ( 0.03906249941792339 0 0 ) ( 0 0.03906249941792339 0.0625 ) ) "textures/common/monster_clip" 0 0 0
+( -1 0 0 120 ) ( ( 0.03906249941792339 0 -4.440892098500626e-16 ) ( 0 0.03906249941792339 0.0625 ) ) "textures/common/monster_clip" 0 0 0
+}
+}
+// primitive 16
+{
+brushDef3
+{
+( 0 0 1 216 ) ( ( 0.03906249941792339 0 -0.1562500000000009 ) ( 0 0.03906249941792339 10.68749985564494 ) ) "textures/common/monster_clip" 0 0 0
+( 0 1 0 64 ) ( ( 0.03906249941792339 0 -9.687499855645001 ) ( 0 0.03906249941792339 0.0625 ) ) "textures/common/monster_clip" 0 0 0
+( 1 0 0 120 ) ( ( 0.03906249941792343 0 -1.000000000000002 ) ( 0 0.03906249941792339 0.06250000000000355 ) ) "textures/common/monster_clip" 0 0 0
+( 0 0 -1 -320 ) ( ( 0.03906249941792338 0 8.881784197001252e-16 ) ( 0 0.03906249941792339 -8.687499855645003 ) ) "textures/common/monster_clip" 0 0 0
+( 0 -1 0 -120 ) ( ( 0.03906249941792339 0 9.687499855644981 ) ( 0 0.03906249941792339 0.06250000000002132 ) ) "textures/common/monster_clip" 0 0 0
+( -1 0 0 -128 ) ( ( 0.03906249941792343 0 -1.77635683940025e-15 ) ( 0 0.03906249941792339 0.06250000000001066 ) ) "textures/common/monster_clip" 0 0 0
+}
+}
+// primitive 17
+{
+brushDef3
+{
+( 0 0 1 200 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 99.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 648 ) ( ( 0.0625 0 -35.3125 ) ( 0 0.0625 -16.71875 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 512 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 -16.71875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -936 ) ( ( 0.0625 0 99.3125 ) ( 0 0.0625 -16.71875 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -640 ) ( ( 0.0625 0 -41.90625 ) ( 0 0.0625 -16.71875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -208 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 -36.3125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 18
+{
+brushDef3
+{
+( 0 0 1 208 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 99.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 640 ) ( ( 0.0625 0 -35.3125 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 512 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -336 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 -35.3125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -640 ) ( ( 0.0625 0 -41.90625 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -648 ) ( ( 0.0625 0 100.3125 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 19
+{
+brushDef3
+{
+( 0 1 0 648 ) ( ( 0.0625 0 -35.3125 ) ( 0 0.0625 -17.71875 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 512 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 -17.71875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -344 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 -35.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -936 ) ( ( 0.0625 0 98.8125 ) ( 0 0.0625 -17.71875 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -640 ) ( ( 0.0625 0 -41.90625 ) ( 0 0.0625 -17.71875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 336 ) ( ( 0.0625 0 105.90625 ) ( 0 0.0625 100.3125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 20
+{
+brushDef3
+{
+( 0 0 1 208 ) ( ( 0.0625 0 55.03125 ) ( 0 0.0625 99.5 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 512 ) ( ( 0.0625 0 55.03125 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -336 ) ( ( 0.0625 0 55.03125 ) ( 0 0.0625 -35.5 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -944 ) ( ( 0.0625 0 99.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -640 ) ( ( 0.0625 0 8.96875 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 936 ) ( ( 0.0625 0 -36.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 21
+{
+brushDef3
+{
+( 0 0 1 208 ) ( ( 0.0625 0 106.5 ) ( 0 0.0625 100 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 648 ) ( ( 0.0625 0 -36 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -336 ) ( ( 0.0625 0 106.5 ) ( 0 0.0625 -36 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -936 ) ( ( 0.0625 0 100 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -648 ) ( ( 0.0625 0 -42.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 640 ) ( ( 0.0625 0 106.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 22
+{
+brushDef3
+{
+( 0 0 1 208 ) ( ( 0.0625 0 106.5 ) ( 0 0.0625 91.5 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 648 ) ( ( 0.0625 0 -27.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -336 ) ( ( 0.0625 0 106.5 ) ( 0 0.0625 -27.5 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -936 ) ( ( 0.0625 0 91.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -512 ) ( ( 0.0625 0 -42.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 504 ) ( ( 0.0625 0 106.5 ) ( 0 0.0625 -17.21875 ) ) "textures/common/caulk" 0 0 0
+}
+}
+}
+// entity 1
+{
+"classname" "atdm:ai_townsfolk_commoner"
+"name" "atdm_ai_townsfolk_commoner_1"
+"origin" "16 -88 -319.853"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 2
+{
+"classname" "light"
+"name" "ambient_world"
+"_color" "0.06 0.06 0.06"
+"light_center" "0 0 0"
+"light_radius" "1545 1593 993"
+"nodiffuse" "0"
+"noshadows" "0"
+"nospecular" "0"
+"origin" "-540 -680 -240"
+"parallel" "0"
+"texture" "lights/ambientlightnfo"
+}
+// entity 3
+{
+"classname" "atdm:target_addobjectives"
+"name" "Objectives"
+"angle" "90.000000"
+"obj1_1_args" "1"
+"obj1_1_irreversible" "0"
+"obj1_1_not" "0"
+"obj1_1_player_responsible" "0"
+"obj1_1_spec1" "name"
+"obj1_1_spec_val1" "ItemName"
+"obj1_1_state" "0"
+"obj1_1_type" "item"
+"obj1_desc" "Get or Steal a Special Object"
+"obj1_irreversible" "0"
+"obj1_mandatory" "1"
+"obj1_ongoing" "0"
+"obj1_state" "0"
+"obj1_visible" "1"
+"obj2_1_args" "1"
+"obj2_1_irreversible" "0"
+"obj2_1_not" "0"
+"obj2_1_player_responsible" "0"
+"obj2_1_spec1" "overall"
+"obj2_1_state" "0"
+"obj2_1_type" "item"
+"obj2_desc" "Get Loot (Easy)"
+"obj2_difficulty" "0"
+"obj2_irreversible" "0"
+"obj2_mandatory" "1"
+"obj2_ongoing" "0"
+"obj2_state" "0"
+"obj2_visible" "1"
+"obj3_1_args" "2"
+"obj3_1_irreversible" "0"
+"obj3_1_not" "0"
+"obj3_1_player_responsible" "0"
+"obj3_1_spec1" "overall"
+"obj3_1_state" "0"
+"obj3_1_type" "item"
+"obj3_desc" "Get Loot (Hard)"
+"obj3_difficulty" "1"
+"obj3_irreversible" "0"
+"obj3_mandatory" "1"
+"obj3_ongoing" "0"
+"obj3_state" "0"
+"obj3_visible" "1"
+"obj4_1_args" "3"
+"obj4_1_irreversible" "0"
+"obj4_1_not" "0"
+"obj4_1_player_responsible" "0"
+"obj4_1_spec1" "overall"
+"obj4_1_state" "0"
+"obj4_1_type" "item"
+"obj4_desc" "Get Loot (Expert)"
+"obj4_difficulty" "2"
+"obj4_irreversible" "0"
+"obj4_mandatory" "1"
+"obj4_ongoing" "0"
+"obj4_state" "0"
+"obj4_visible" "1"
+"obj5_1_args" "1"
+"obj5_1_irreversible" "1"
+"obj5_1_not" "1"
+"obj5_1_player_responsible" "1"
+"obj5_1_spec1" "overall"
+"obj5_1_state" "1"
+"obj5_1_type" "kill"
+"obj5_desc" "No killing (on Expert)"
+"obj5_difficulty" "2"
+"obj5_irreversible" "1"
+"obj5_mandatory" "1"
+"obj5_ongoing" "1"
+"obj5_state" "0"
+"obj5_visible" "1"
+"obj6_1_args" "0"
+"obj6_1_irreversible" "0"
+"obj6_1_not" "0"
+"obj6_1_player_responsible" "0"
+"obj6_1_spec1" "spawnclass"
+"obj6_1_spec2" "name"
+"obj6_1_spec_val1" "idPlayer"
+"obj6_1_spec_val2" "EscZone"
+"obj6_1_state" "0"
+"obj6_1_type" "location"
+"obj6_desc" "Go To Room X, eg, When all objectives done, return to start (modify Enabling Objectives if different)"
+"obj6_enabling_objs" "1 AND (2 OR 3 OR 4)"
+"obj6_irreversible" "0"
+"obj6_mandatory" "1"
+"obj6_ongoing" "0"
+"obj6_state" "0"
+"obj6_visible" "1"
+"origin" "-616 -680 -288"
+}
+// entity 4
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-631 -702.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 5
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-619 -702.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 6
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-609 -702.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 7
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-593 -702.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 8
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-521 -752.5 -276.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 9
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-569.375 -753.25 -276.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 10
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-581 -702.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 11
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-629 -752.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 12
+{
+"classname" "atdm:key_fancy02"
+"name" "key_master"
+"inv_icon" "guis/assets/hud/inventory_icons/key_good_red"
+"inv_map_start" "1"
+"inv_name" "MASTER KEY"
+"inv_stackable" "0"
+"nodrop" "1"
+"origin" "-520 -680 -256"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "bc_key02red"
+}
+// entity 13
+{
+"classname" "atdm:shop"
+"name" "ShopItems"
+"angle" "90.000000"
+"diff_0_shop_gold_start" "800"
+"diff_1_shop_gold_start" "600"
+"diff_2_shop_gold_start" "400"
+"origin" "-568 -680 -288"
+"shopItem_11_0_qty" "0"
+"shopItem_11_1_qty" "0"
+"shopItem_11_2_qty" "0"
+"shopItem_11_item" "atdm:playertools_compass"
+"shopItem_12_0_qty" "0"
+"shopItem_12_1_qty" "0"
+"shopItem_12_2_qty" "0"
+"shopItem_12_item" "atdm:playertools_lantern"
+"shopItem_13_0_qty" "0"
+"shopItem_13_1_qty" "0"
+"shopItem_13_2_qty" "0"
+"shopItem_13_item" "atdm:playertools_spyglass"
+"shopItem_15_0_qty" "0"
+"shopItem_15_1_qty" "0"
+"shopItem_15_2_qty" "0"
+"shopItem_15_item" "atdm:playertools_mine"
+"shopItem_16_0_qty" "0"
+"shopItem_16_1_qty" "0"
+"shopItem_16_2_qty" "0"
+"shopItem_16_item" "atdm:playertools_flashbomb"
+"shopItem_17_0_qty" "0"
+"shopItem_17_1_qty" "0"
+"shopItem_17_2_qty" "0"
+"shopItem_17_item" "atdm:playertools_holywater"
+"shopItem_18_0_qty" "0"
+"shopItem_18_1_qty" "0"
+"shopItem_18_2_qty" "0"
+"shopItem_18_item" "atdm:playertools_health_potion"
+"shopItem_19_0_qty" "0"
+"shopItem_19_1_qty" "0"
+"shopItem_19_2_qty" "0"
+"shopItem_19_item" "atdm:playertools_breath_potion"
+"shopItem_1_0_qty" "0"
+"shopItem_1_1_qty" "0"
+"shopItem_1_2_qty" "0"
+"shopItem_1_item" "atdm:weapon_shortsword"
+"shopItem_20_0_qty" "0"
+"shopItem_20_1_qty" "0"
+"shopItem_20_2_qty" "0"
+"shopItem_20_item" "atdm:weapon_vinearrow"
+"shopItem_2_0_qty" "0"
+"shopItem_2_1_qty" "0"
+"shopItem_2_2_qty" "0"
+"shopItem_2_item" "atdm:weapon_blackjack"
+"shopItem_3_0_qty" "0"
+"shopItem_3_1_qty" "0"
+"shopItem_3_2_qty" "0"
+"shopItem_3_item" "atdm:weapon_waterarrow"
+"shopItem_4_0_qty" "0"
+"shopItem_4_1_qty" "0"
+"shopItem_4_2_qty" "0"
+"shopItem_4_item" "atdm:weapon_broadhead"
+"shopItem_5_0_qty" "0"
+"shopItem_5_1_qty" "0"
+"shopItem_5_2_qty" "0"
+"shopItem_5_item" "atdm:weapon_ropearrow"
+"shopItem_6_0_qty" "0"
+"shopItem_6_1_qty" "0"
+"shopItem_6_2_qty" "0"
+"shopItem_6_item" "atdm:weapon_mossarrow"
+"shopItem_7_0_qty" "0"
+"shopItem_7_1_qty" "0"
+"shopItem_7_2_qty" "0"
+"shopItem_7_item" "atdm:weapon_noisemaker"
+"shopItem_8_0_qty" "0"
+"shopItem_8_1_qty" "0"
+"shopItem_8_2_qty" "0"
+"shopItem_8_item" "atdm:weapon_firearrow"
+"shopItem_9_0_qty" "0"
+"shopItem_9_1_qty" "0"
+"shopItem_9_2_qty" "0"
+"shopItem_9_item" "atdm:weapon_gasarrow"
+"startingitem_11_0_qty" "0"
+"startingitem_11_1_qty" "0"
+"startingitem_11_2_qty" "0"
+"startingitem_11_item" "atdm:playertools_compass"
+"startingitem_12_0_qty" "0"
+"startingitem_12_1_qty" "0"
+"startingitem_12_2_qty" "0"
+"startingitem_12_item" "atdm:playertools_lantern"
+"startingitem_13_0_qty" "0"
+"startingitem_13_1_qty" "0"
+"startingitem_13_2_qty" "0"
+"startingitem_13_item" "atdm:playertools_spyglass"
+"startingitem_15_0_qty" "0"
+"startingitem_15_1_qty" "0"
+"startingitem_15_2_qty" "0"
+"startingitem_15_item" "atdm:playertools_mine"
+"startingitem_16_0_qty" "0"
+"startingitem_16_1_qty" "0"
+"startingitem_16_2_qty" "0"
+"startingitem_16_item" "atdm:playertools_flashbomb"
+"startingitem_17_0_qty" "0"
+"startingitem_17_1_qty" "0"
+"startingitem_17_2_qty" "0"
+"startingitem_17_item" "atdm:playertools_holywater"
+"startingitem_18_0_qty" "0"
+"startingitem_18_1_qty" "0"
+"startingitem_18_2_qty" "0"
+"startingitem_18_item" "atdm:playertools_health_potion"
+"startingitem_19_0_qty" "0"
+"startingitem_19_1_qty" "0"
+"startingitem_19_2_qty" "0"
+"startingitem_19_item" "atdm:playertools_breath_potion"
+"startingitem_1_0_qty" "0"
+"startingitem_1_1_qty" "0"
+"startingitem_1_2_qty" "0"
+"startingitem_1_item" "atdm:weapon_shortsword"
+"startingitem_20_0_qty" "0"
+"startingitem_20_1_qty" "0"
+"startingitem_20_2_qty" "0"
+"startingitem_20_item" "atdm:weapon_vinearrow"
+"startingitem_2_0_qty" "0"
+"startingitem_2_1_qty" "0"
+"startingitem_2_2_qty" "0"
+"startingitem_2_item" "atdm:weapon_blackjack"
+"startingitem_3_0_qty" "0"
+"startingitem_3_1_qty" "0"
+"startingitem_3_2_qty" "0"
+"startingitem_3_item" "atdm:weapon_waterarrow"
+"startingitem_4_0_qty" "0"
+"startingitem_4_1_qty" "0"
+"startingitem_4_2_qty" "0"
+"startingitem_4_item" "atdm:weapon_broadhead"
+"startingitem_5_0_qty" "0"
+"startingitem_5_1_qty" "0"
+"startingitem_5_2_qty" "0"
+"startingitem_5_item" "atdm:weapon_ropearrow"
+"startingitem_6_0_qty" "0"
+"startingitem_6_1_qty" "0"
+"startingitem_6_2_qty" "0"
+"startingitem_6_item" "atdm:weapon_mossarrow"
+"startingitem_7_0_qty" "0"
+"startingitem_7_1_qty" "0"
+"startingitem_7_2_qty" "0"
+"startingitem_7_item" "atdm:weapon_noisemaker"
+"startingitem_8_0_qty" "0"
+"startingitem_8_1_qty" "0"
+"startingitem_8_2_qty" "0"
+"startingitem_8_item" "atdm:weapon_firearrow"
+"startingitem_9_0_qty" "0"
+"startingitem_9_1_qty" "0"
+"startingitem_9_2_qty" "0"
+"startingitem_9_item" "atdm:weapon_gasarrow"
+}
+// entity 14
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-632 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 15
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-632 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 16
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-632 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 17
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-616 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 18
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-616 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 19
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-616 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 20
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-600 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 21
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-600 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 22
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-600 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 23
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-584 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 24
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-584 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 25
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-584 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 26
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-568 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 27
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-568 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 28
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-568 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 29
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-552 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 30
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-552 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 31
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-552 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 32
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-520 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 33
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-520 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 34
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-520 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 35
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-569.375 -769.25 -276.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 36
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-569.375 -785.25 -276.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 37
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-521 -768.5 -276.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 38
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-521 -784.5 -276.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 39
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-631 -718.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 40
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-631 -734.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 41
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-619 -718.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 42
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-619 -734.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 43
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-609 -718.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 44
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-609 -734.5 -227.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 45
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-629 -768.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 46
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-629 -784.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 47
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-593 -718.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 48
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-593 -734.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 49
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-581 -718.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 50
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-581 -734.5 -252.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 51
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-538 -702 -256"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 52
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-522 -702 -256"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 53
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-598 -752 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 54
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-582 -752 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 55
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-614 -752 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 56
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-538 -718 -256"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 57
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-538 -734 -256"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 58
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-522 -718 -256"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 59
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-522 -734 -256"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 60
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-614 -768 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 61
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-614 -784 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 62
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-598 -768 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 63
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-598 -784 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 64
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-582 -768 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 65
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-582 -784 -256"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 66
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-536 -832 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 67
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-536 -880 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 68
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-536 -928 -296"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 69
+{
+"classname" "atdm:location_settings"
+"name" "atdm_location_settings_1"
+"ambient_light_dist_scale" "1.0"
+"ambient_light_dynamic_cap" "0.1 0.1 0.1"
+"ambient_light_falloff" "0"
+"angle" "90.000000"
+"origin" "-592 -680 -288"
+}
+// entity 70
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"angle" "-45.000000"
+"origin" "-64 -48 -320"
+}

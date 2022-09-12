@@ -78,12 +78,12 @@ brushDef3
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( -3.153162485635778e-16 0.01953124999999956 -25.13405221803487 ) ( -0.01953124999999944 8.881784197001252e-16 -19.4776645102487 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -328 ) ( ( 0.01953124999999999 1.908195823574488e-17 19.47766451024884 ) ( 0 0.01953125 -2.664535259100376e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1128 ) ( ( 0.01953125000000133 0 -24.97780221803475 ) ( 0 0.01953125 -8.526512829121202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 1.595945597898663e-16 -0.01953124999999956 -25.1340522180341 ) ( 0.01953125000000004 0 19.47766451024879 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953124999999999 1.734723475976807e-17 -19.47766451024883 ) ( 0 0.01953125000000002 6.661338147750939e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 616 ) ( ( 0.01953125000000089 0 25.13405221803168 ) ( 0 0.01953125000000001 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( -3.153162467168694e-16 0.01953125 -25.13405227661133 ) ( -0.01953125 8.881784197001252e-16 -19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -328 ) ( ( 0.01953125 1.908195823574488e-17 19.47766494750977 ) ( 0 0.01953125 -2.664535259100376e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1128 ) ( ( 0.01953125 0 -24.97780227661133 ) ( 0 0.01953125 -8.526512829121202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 1.595945597898663e-16 -0.01953125 -25.13405227661133 ) ( 0.01953125 0 19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 1.734723475976807e-17 -19.47766494750977 ) ( 0 0.01953125 6.661338147750939e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 616 ) ( ( 0.01953125 0 25.13405227661133 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 7
@@ -138,7 +138,7 @@ brushDef3
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.01953125 0 -1.323385845353187e-13 ) ( 0 0.01953125 -0.1562499999999669 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 -1.323385845353187e-13 ) ( 0 0.01953125 -0.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 1 0 1464 ) ( ( 0.01953125 0 1.110223024625157e-16 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 1 0 0 -56 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 0 -1 -64 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
@@ -246,60 +246,60 @@ brushDef3
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.01953125 0 -5.156250000002495 ) ( 0 0.01953124999999999 -0.3124999999999736 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -0.3125 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 1 0 1200 ) ( ( 0.01953125 0 -1.110223024625157e-16 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -56 ) ( ( 0.01953125 0 -5.156249999999662 ) ( 0 0.01953125 -1.874999999999887 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0.01953125 0 -5.156249999999741 ) ( 0 0.01953124999999999 3.186340080674199e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 -384 ) ( ( 0.01953125 0 5.156249999996817 ) ( 0 0.01953125 -1.874999999999943 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1208 ) ( ( 0.01953125 0 5.551115123125783e-17 ) ( 0 0.01953124999999999 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -56 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 3.186340080674199e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -384 ) ( ( 0.01953125 0 5.15625 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1208 ) ( ( 0.01953125 0 5.551115123125783e-17 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 21
 {
 brushDef3
 {
-( 0 0 1 -40 ) ( ( 0.01953125 0 -5.156250000000047 ) ( 0 0.01953125 6.938893903907228e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -56 ) ( ( 0.01953125 0 -5.156249999998007 ) ( 0 0.01953125 -1.874999999999944 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -40 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 6.938893903907228e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -56 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 0 -1 -64 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1288 ) ( ( 0.01953125 0 -2.220446049250313e-16 ) ( 0 0.01953125000000001 -1.875000000000001 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 -192 ) ( ( 0.01953125 0 5.00000000000011 ) ( 0 0.01953124999999999 -1.87500000000027 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1280 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125000000001 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1288 ) ( ( 0.01953125 0 -2.220446049250313e-16 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -192 ) ( ( 0.01953125 0 5 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1280 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 22
 {
 brushDef3
 {
-( 0 0 1 -40 ) ( ( 0.01953125 0 -5.156249999999488 ) ( 0 0.01953125 7.105427357601002e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -40 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 7.105427357601002e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 1 0 1288 ) ( ( 0.01953125 0 -2.842170943040401e-14 ) ( 0 0.01953125 5.329070518200751e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 184 ) ( ( 0.01953125 0 -5.156249999999915 ) ( 0 0.01953125000000001 1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 184 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 0 -1 -64 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1464 ) ( ( 0.01953124999999994 0 -0.1562499999999769 ) ( 0 0.01953125 7.605027718682322e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 -192 ) ( ( 0.01953125 0 5.156250000000114 ) ( 0 0.01953125000000001 -8.881784197001252e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1464 ) ( ( 0.01953125 0 -0.15625 ) ( 0 0.01953125 7.605027718682322e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -192 ) ( ( 0.01953125 0 5.15625 ) ( 0 0.01953125 -8.881784197001252e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 23
 {
 brushDef3
 {
-( 0 0 1 -40 ) ( ( 0.01953125 0 -5.156249999999869 ) ( 0 0.01953125 1.754152378907747e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -40 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 1.754152378907747e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 1 0 1208 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -56 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -1.874999999999993 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -56 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 -1 0 -1280 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 -192 ) ( ( 0.01953125 0 5.156249999999886 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 32 ) ( ( 0.01953125 0 -5.156249999999886 ) ( 0 0.01953125 1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 -192 ) ( ( 0.01953125 0 5.15625 ) ( 0 0.01953125 -1.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 32 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 24
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.01953125 0 -5.624999999999915 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1064 ) ( ( 0.01953125 0 0.1562499999999964 ) ( 0 0.01953125 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -64 ) ( ( 0.01953125 0 -5.156249999999972 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0.01953124999999997 0 -5.312500000000085 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1208 ) ( ( 0.01953125 0 0.1562500000000036 ) ( 0 0.01953125 -7.438494264988549e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 56 ) ( ( 0.01953124999999999 0 5.156250000000028 ) ( 0 0.01953125 1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 -5.625 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1064 ) ( ( 0.01953125 0 0.15625 ) ( 0 0.01953125 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -64 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0.01953125 0 -5.3125 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1208 ) ( ( 0.01953125 0 0.15625 ) ( 0 0.01953125 -7.438494264988549e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 56 ) ( ( 0.01953125 0 5.15625 ) ( 0 0.01953125 1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 25
@@ -308,142 +308,142 @@ brushDef3
 {
 ( 0 0 1 -128 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 1 0 1208 ) ( ( 0.01953125 0 -3.552713678800501e-15 ) ( 0 0.01953125 -7.105427357601002e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -64 ) ( ( 0.01953125 0 -5.156250000000057 ) ( 0 0.01953125 -7.105427357601002e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -64 ) ( ( 0.01953125 0 -5.15625 ) ( 0 0.01953125 -7.105427357601002e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 0 -1 32 ) ( ( 0.01953125 0 -5.3125 ) ( 0 0.01953125 7.105427357601002e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 0 -1 0 -1280 ) ( ( 0.01953125 0 3.996802888650564e-15 ) ( 0 0.01953125 -7.327471962526033e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 56 ) ( ( 0.01953125 0 5.156250000000114 ) ( 0 0.01953125 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 56 ) ( ( 0.01953125 0 5.15625 ) ( 0 0.01953125 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 26
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.01953124999999997 0 -8.593749999999915 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 912 ) ( ( 0.01953125 0 0.1562499999999956 ) ( 0 0.01953125 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 -8.59375 ) ( 0 0.01953125 -3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 912 ) ( ( 0.01953125 0 0.15625 ) ( 0 0.01953125 -1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 ( 1 0 0 -64 ) ( ( 0.01953125 0 -8.125 ) ( 0 0.01953125 1.77635683940025e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0.01953124999999997 0 -8.281250000000085 ) ( 0 0.01953125 -6.217248937900877e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1056 ) ( ( 0.01953125 0 0.156250000000005 ) ( 0 0.01953125 -1.099120794378905e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 56 ) ( ( 0.01953125 0 8.125000000000028 ) ( 0 0.01953125 5.329070518200751e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0.01953125 0 -8.28125 ) ( 0 0.01953125 -6.217248937900877e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1056 ) ( ( 0.01953125 0 0.15625 ) ( 0 0.01953125 -1.099120794378905e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 56 ) ( ( 0.01953125 0 8.125 ) ( 0 0.01953125 5.329070518200751e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 27
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0 -0.01953125000000072 -25.15624999999951 ) ( 0.01953125000000031 0 21.87500000000031 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 -2.220446049250313e-16 0 63.99999999999979 ) ( ( 0.01953124999999956 0 -21.71874999999943 ) ( 0 0.01953125 -5.684341886080801e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -2.220446049250313e-16 1 0 1056 ) ( ( 0.01953124999999999 0 -24.68749999999993 ) ( 0 0.01953125 2.220446049250313e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0 0.01953124999999917 -24.84374999999977 ) ( -0.01953124999999911 0 -21.87499999999894 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 2.220446049250313e-16 0 -319.9999999999997 ) ( ( 0.01953125 0 22.03124999999994 ) ( 0 0.01953125 -4.418687638008123e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 2.220446049250313e-16 -1 0 -1064 ) ( ( 0.01953125 0 24.68749999999999 ) ( 0 0.01953125 8.548717289613705e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0 -0.01953125 -25.15625 ) ( 0.01953125 0 21.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 -2.220446049250313e-16 0 64 ) ( ( 0.01953125 0 -21.71875 ) ( 0 0.01953125 -5.684341886080801e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -2.220446049250313e-16 1 0 1056 ) ( ( 0.01953125 0 -24.6875 ) ( 0 0.01953125 2.220446049250313e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0 0.01953125 -24.84375 ) ( -0.01953125 0 -21.875 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 2.220446049250313e-16 0 -320 ) ( ( 0.01953125 0 22.03125 ) ( 0 0.01953125 -4.418687638008123e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 2.220446049250313e-16 -1 0 -1064 ) ( ( 0.01953125 0 24.6875 ) ( 0 0.01953125 8.548717289613705e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 28
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0 0.01953124970895947 -27.00905181556232 ) ( -0.01953124970895865 0 -19.47766422000643 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -328 ) ( ( 0.01953124970896162 0 19.47766422000891 ) ( 0 0.0195312497089617 -2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1184 ) ( ( 0.0195312497089617 0 -27.00905181556709 ) ( 0 0.0195312497089617 -8.526512829121202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 32 ) ( ( 3.885780586188048e-16 -0.0195312497089617 -27.00905181556618 ) ( 0.01953124970896192 -4.440892098500626e-16 19.39953922117373 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953124970896171 0 -19.47766422000901 ) ( 0 0.01953124970896162 -2.398081733190338e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1128 ) ( ( 0.01953124970896258 1.110223024625157e-16 27.00905181556641 ) ( 0 0.0195312497089617 -4.263256414560601e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0 0.01953125 -27.00905227661133 ) ( -0.01953125 0 -19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -328 ) ( ( 0.01953125 0 19.47766494750977 ) ( 0 0.01953125 -2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1184 ) ( ( 0.01953125 0 -27.00905227661133 ) ( 0 0.01953125 -8.526512829121202e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 32 ) ( ( 3.885780586188048e-16 -0.01953125 -27.00905227661133 ) ( 0.01953125 -4.440892098500626e-16 19.39953994750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 0 -19.47766494750977 ) ( 0 0.01953125 -2.398081733190338e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1128 ) ( ( 0.01953125 1.110223024625157e-16 27.00905227661133 ) ( 0 0.01953125 -4.263256414560601e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 29
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( -2.220446049250313e-16 0.01953124999999911 -25.13405221803504 ) ( -0.01953125000000094 0 -30.72766451025025 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -328 ) ( ( 0.01953125000000003 2.775557561562891e-17 30.7276645102489 ) ( 0 0.01953125000000001 -1.06581410364015e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1376 ) ( ( 0.01953125000000311 5.551115123125783e-17 -25.13405221803487 ) ( 0 0.01953125000000001 -9.947598300641403e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953124999999994 4.163336342344337e-17 -30.72766451024874 ) ( 0 0.01953124999999998 2.55351295663786e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1184 ) ( ( 0.01953125000000044 -1.665334536937735e-16 25.13405221803157 ) ( 0 0.01953125 4.263256414560601e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 32 ) ( ( -2.775557561562891e-17 -0.01953124970896436 -27.00905181556769 ) ( 0.01953124970896326 4.440892098500626e-16 19.47766422001052 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( -2.220446049250313e-16 0.01953125 -25.13405227661133 ) ( -0.01953125 0 -30.72766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -328 ) ( ( 0.01953125 2.775557561562891e-17 30.72766494750977 ) ( 0 0.01953125 -1.06581410364015e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1376 ) ( ( 0.01953125 5.551115123125783e-17 -25.13405227661133 ) ( 0 0.01953125 -9.947598300641403e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 4.163336342344337e-17 -30.72766494750977 ) ( 0 0.01953125 2.55351295663786e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1184 ) ( ( 0.01953125 -1.665334536937735e-16 25.13405227661133 ) ( 0 0.01953125 4.263256414560601e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 32 ) ( ( -2.775557561562891e-17 -0.01953125 -27.00905227661133 ) ( 0.01953125 4.440892098500626e-16 19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 30
 {
 brushDef3
 {
-( 1 0 0 -328 ) ( ( 0.01953124999999994 0 30.72766451024881 ) ( 0 0.01953124999999994 -6.050715484207103e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1376 ) ( ( 0.01953125 0 -25.13405221803377 ) ( 0 0.01953124999999992 -1.815214645262131e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0 -0.01953125000000577 -25.13405221803936 ) ( 0.01953125000000475 4.440892098500626e-16 30.72766451025532 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953124999999994 0 -30.7276645102487 ) ( 0 0.01953125000000005 -3.885780586188048e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 1 -32 ) ( ( 0 0.01953124970896436 -27.0090518155688 ) ( -0.019531249708963 8.881784197001252e-16 -19.47766422001014 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1264 ) ( ( 0.01953124970896081 0 27.00905181556652 ) ( 0 0.01953124970896171 -2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -328 ) ( ( 0.01953125 0 30.72766494750977 ) ( 0 0.01953125 -6.050715484207103e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1376 ) ( ( 0.01953125 0 -25.13405227661133 ) ( 0 0.01953125 -1.815214645262131e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0 -0.01953125 -25.13405227661133 ) ( 0.01953125 4.440892098500626e-16 30.72766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 0 -30.72766494750977 ) ( 0 0.01953125 -3.885780586188048e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -32 ) ( ( 0 0.01953125 -27.00905227661133 ) ( -0.01953125 8.881784197001252e-16 -19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1264 ) ( ( 0.01953125 0 27.00905227661133 ) ( 0 0.01953125 -2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 31
 {
 brushDef3
 {
-( 1 0 0 -328 ) ( ( 0.01953125000000017 -1.110223024625157e-16 30.72766451024901 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 7.596262800062698e-17 -0.01953125000000222 -25.13405221803362 ) ( 0.01953125000000224 -4.440892098500626e-16 30.72766451025086 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953124999999997 1.110223024625157e-16 -30.72766451024879 ) ( 0 0.01953125000000001 3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1184 ) ( ( 0.01953125000000044 0 25.13405221803202 ) ( 0 0.01953125 1.70530256582424e-13 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1264 ) ( ( 0.01953124970896081 0 -27.00905181556698 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 1 32 ) ( ( 2.220446049250313e-16 0.01953124970896258 -27.00905181556584 ) ( -0.01953124970896217 0 -19.47766422000942 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -328 ) ( ( 0.01953125 -1.110223024625157e-16 30.72766494750977 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 7.59626293938149e-17 -0.01953125 -25.13405227661133 ) ( 0.01953125 -4.440892098500626e-16 30.72766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 1.110223024625157e-16 -30.72766494750977 ) ( 0 0.01953125 3.552713678800501e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1184 ) ( ( 0.01953125 0 25.13405227661133 ) ( 0 0.01953125 1.70530256582424e-13 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1264 ) ( ( 0.01953125 0 -27.00905227661133 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 32 ) ( ( 2.220446049250313e-16 0.01953125 -27.00905227661133 ) ( -0.01953125 0 -19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 32
 {
 brushDef3
 {
-( 1 0 0 -328 ) ( ( 0.01953125000000028 0 30.72766451024936 ) ( 0 0.01953125 6.439293542825908e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953125000000006 0 -30.72766451024893 ) ( 0 0.01953125 -7.105427357601002e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1184 ) ( ( 0.01953125 0 25.13405221803165 ) ( 0 0.01953125 1.638689184346731e-13 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 1 -32 ) ( ( 1.110223024625157e-16 0.0195312497089617 -27.00905181556107 ) ( -0.01953124970896105 4.440892098500626e-16 -19.47766422000912 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -32 ) ( ( -3.33066907387547e-16 -0.01953124970897013 -27.00905181557573 ) ( 0.01953124970896933 4.440892098500626e-16 19.47766422001693 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1216 ) ( ( 0.01953124970896303 0 -27.00905181556669 ) ( 0 0.0195312497089617 2.142730437526552e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -328 ) ( ( 0.01953125 0 30.72766494750977 ) ( 0 0.01953125 6.439293542825908e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 0 -30.72766494750977 ) ( 0 0.01953125 -7.105427357601002e-15 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1184 ) ( ( 0.01953125 0 25.13405227661133 ) ( 0 0.01953125 1.638689184346731e-13 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -32 ) ( ( 1.110223024625157e-16 0.01953125 -27.00905227661133 ) ( -0.01953125 4.440892098500626e-16 -19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -32 ) ( ( -3.33066907387547e-16 -0.01953125 -27.00905227661133 ) ( 0.01953125 4.440892098500626e-16 19.47766494750977 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1216 ) ( ( 0.01953125 0 -27.00905227661133 ) ( 0 0.01953125 2.142730437526552e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 33
 {
 brushDef3
 {
-( 0 0 1 -136 ) ( ( 0.0195312497089617 0 2.812499958090484 ) ( 0 0.0195312497089617 -5.156249923165885 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1056 ) ( ( 0.01953124970896169 0 5.156249923165911 ) ( 0 0.0195312497089617 0.156249997671706 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -576 ) ( ( 0.01953124970896168 0 2.812499958090413 ) ( 0 0.0195312497089617 0.1562499976716936 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 128 ) ( ( 0.01953124970896168 0 2.812499958090484 ) ( 0 0.0195312497089617 5.156249923165859 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1376 ) ( ( 0.0195312497089617 0 -5.624999916181025 ) ( 0 0.0195312497089617 0.1562499976717078 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 320 ) ( ( 0.01953124970896168 0 -2.812499958090484 ) ( 0 0.0195312497089617 0.1562499976716936 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -136 ) ( ( 0.01953125 0 2.8125 ) ( 0 0.01953125 -5.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1056 ) ( ( 0.01953125 0 5.15625 ) ( 0 0.01953125 0.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -576 ) ( ( 0.01953125 0 2.8125 ) ( 0 0.01953125 0.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 128 ) ( ( 0.01953125 0 2.8125 ) ( 0 0.01953125 5.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1376 ) ( ( 0.01953125 0 -5.625 ) ( 0 0.01953125 0.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 320 ) ( ( 0.01953125 0 -2.8125 ) ( 0 0.01953125 0.15625 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 34
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1376 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -576 ) ( ( 0.0195312497089617 0 -1.818989403545856e-12 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1384 ) ( ( 0.0195312497089617 0 -4.999999925494193 ) ( 0 0.0195312497089617 -7.771561172376096e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1376 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -576 ) ( ( 0.01953125 0 -1.818989403545856e-12 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1384 ) ( ( 0.01953125 0 -5 ) ( 0 0.01953125 -7.771561172376096e-16 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 64 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 35
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1056 ) ( ( 0.0195312497089617 0 0.468749993014967 ) ( 0 0.0195312497089617 -2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -576 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1376 ) ( ( 0.0195312497089617 0 1.145750161413162e-13 ) ( 0 0.0195312497089617 -2.831068712794149e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 568 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1056 ) ( ( 0.01953125 0 0.46875 ) ( 0 0.01953125 -2.842170943040401e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -576 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1376 ) ( ( 0.01953125 0 1.145750161413162e-13 ) ( 0 0.01953125 -2.831068712794149e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 568 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 // primitive 36
 {
 brushDef3
 {
-( 0 0 1 -128 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 1 0 1056 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 1 0 0 -568 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 0 -1 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( 0 -1 0 -1064 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
-( -1 0 0 328 ) ( ( 0.0195312497089617 0 0.1562499976712388 ) ( 0 0.0195312497089617 5.684341886080801e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 1 -128 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 1 0 1056 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 1 0 0 -568 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 0 -1 -64 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( 0 -1 0 -1064 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
+( -1 0 0 328 ) ( ( 0.01953125 0 0.15625 ) ( 0 0.01953125 5.684341886080801e-14 ) ) "textures/darkmod/stone/brick/blocks_darksheen_smooth" 0 0 0
 }
 }
 }
@@ -2055,14 +2055,15 @@ brushDef3
 {
 "classname" "atdm:ai_proguard"
 "name" "atdm_ai_proguard_1"
+"can_unlock1" "door_96x48x3hinge_1"
 "origin" "351.019 -1240 -63.9393"
 "rotation" "-1 -1.11022e-16 0 1.11022e-16 -1 0 0 0 1"
-"can_unlock1" "door_96x48x3hinge_1"
 }
 // entity 79
 {
 "classname" "atdm:mover_door_sliding"
 "name" "watch_station_gate2"
+"door_handle_position" "atdm_door_handling_position_1"
 "frobable" "0"
 "lock_picktype" "-"
 "locked" "0"
@@ -2071,41 +2072,40 @@ brushDef3
 "rotate" "0 0 0"
 "shouldBeClosed" "1"
 "translate" "0 0 100"
-"door_handle_position" "atdm_door_handling_position_1"
 // primitive 0
 {
 brushDef3
 {
-( 0 0 1 39 ) ( ( 0.004883000161498785 0 8.218097735196338 ) ( 0 0.004883000161498785 1.377037048339826 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 0 0 1 39 ) ( ( 0.004883000161498785 0 8.218097686767578 ) ( 0 0.004883000161498785 1.377037048339844 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 ( 0 1 0 -31 ) ( ( 0.004883000161498785 0 -1.377037048339844 ) ( 0 0.004883000161498785 1.289113998413086 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( 1 0 0 -2 ) ( ( 0.004883000161498785 0 8.222980547696352 ) ( 0 0.004883000161498785 1.289113998413079 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( 0 0 -1 -40 ) ( ( 0.004883000161498785 0 8.222980547696331 ) ( 0 0.004883000161498785 -1.377037048339837 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 1 0 0 -2 ) ( ( 0.004883000161498785 0 8.222980499267578 ) ( 0 0.004883000161498785 1.289113998413086 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 0 0 -1 -40 ) ( ( 0.004883000161498785 0 8.222980499267578 ) ( 0 0.004883000161498785 -1.377037048339844 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 ( 0 -1 0 -31 ) ( ( 0.004883000161498785 0 1.367272019386292 ) ( 0 0.004883000161498785 1.289113998413086 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( -1 0 0 -2 ) ( ( 0.004883000161498785 0 -8.222980547696309 ) ( 0 0.004883000161498785 1.289113998413097 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( -1 0 0 -2 ) ( ( 0.004883000161498785 0 -8.222980499267578 ) ( 0 0.004883000161498785 1.289113998413086 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 }
 }
 // primitive 1
 {
 brushDef3
 {
-( 0 0 1 -1 ) ( ( 0.004883000161498785 0 8.218097735196338 ) ( 0 0.004883000161498785 1.377037048339826 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 0 0 1 -1 ) ( ( 0.004883000161498785 0 8.218097686767578 ) ( 0 0.004883000161498785 1.377037048339844 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 ( 0 1 0 -31 ) ( ( 0.004883000161498785 0 -1.377037048339844 ) ( 0 0.004883000161498785 1.484426021575928 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( 1 0 0 -2 ) ( ( 0.004883000161498785 0 8.222980547696345 ) ( 0 0.004883000161498785 1.484426021575921 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( 0 0 -1 0 ) ( ( 0.004883000161498785 0 8.222980547696331 ) ( 0 0.004883000161498785 -1.377037048339837 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 1 0 0 -2 ) ( ( 0.004883000161498785 0 8.222980499267578 ) ( 0 0.004883000161498785 1.484426021575928 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 0 0 -1 0 ) ( ( 0.004883000161498785 0 8.222980499267578 ) ( 0 0.004883000161498785 -1.377037048339844 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 ( 0 -1 0 -31 ) ( ( 0.004883000161498785 0 1.367272019386292 ) ( 0 0.004883000161498785 1.484426021575928 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( -1 0 0 -2 ) ( ( 0.004883000161498785 0 -8.222980547696345 ) ( 0 0.004883000161498785 1.484426021575938 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( -1 0 0 -2 ) ( ( 0.004883000161498785 0 -8.222980499267578 ) ( 0 0.004883000161498785 1.484426021575928 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 }
 }
 // primitive 2
 {
 brushDef3
 {
-( 0 0 1 -41 ) ( ( 0.004883000161498785 0 8.218097735196338 ) ( 0 0.004883000161498785 1.377037048339826 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 0 0 1 -41 ) ( ( 0.004883000161498785 0 8.218097686767578 ) ( 0 0.004883000161498785 1.377037048339844 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 ( 0 1 0 -31 ) ( ( 0.004883000161498785 0 -1.377037048339844 ) ( 0 0.004883000161498785 1.67973804473877 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( 1 0 0 -2 ) ( ( 0.004883000161498785 0 8.222980547696338 ) ( 0 0.004883000161498785 1.679738044738745 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( 0 0 -1 40 ) ( ( 0.004883000161498785 0 8.222980547696331 ) ( 0 0.004883000161498785 -1.377037048339837 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 1 0 0 -2 ) ( ( 0.004883000161498785 0 8.222980499267578 ) ( 0 0.004883000161498785 1.67973804473877 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( 0 0 -1 40 ) ( ( 0.004883000161498785 0 8.222980499267578 ) ( 0 0.004883000161498785 -1.377037048339844 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 ( 0 -1 0 -31 ) ( ( 0.004883000161498785 0 1.367272019386292 ) ( 0 0.004883000161498785 1.67973804473877 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
-( -1 0 0 -2 ) ( ( 0.004883000161498785 0 -8.222980547696352 ) ( 0 0.004883000161498785 1.67973804473877 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
+( -1 0 0 -2 ) ( ( 0.004883000161498785 0 -8.222980499267578 ) ( 0 0.004883000161498785 1.67973804473877 ) ) "textures/darkmod/metal/flat/iron_flat" 0 0 0
 }
 }
 // primitive 3
@@ -2320,9 +2320,9 @@ patchDef2
 {
 "classname" "func_static"
 "name" "func_static_4"
+"model" "models/darkmod/architecture/doorframes/door_frame_wood_96x48.ase"
 "origin" "324 -1160 -64"
 "rotation" "1.11022e-16 -1 0 1 1.11022e-16 0 0 0 1"
-"model" "models/darkmod/architecture/doorframes/door_frame_wood_96x48.ase"
 }
 // entity 87
 {
@@ -2333,9 +2333,9 @@ patchDef2
 "locked" "1"
 "origin" "320 -1136 -64"
 "rotate" "0 90 0"
+"rotation" "1.11022e-16 -1 0 1 1.11022e-16 0 0 0 1"
 "skin" "door_003"
 "used_by" "-"
-"rotation" "1.11022e-16 -1 0 1 1.11022e-16 0 0 0 1"
 }
 // entity 88
 {
@@ -2349,6 +2349,34 @@ patchDef2
 {
 "classname" "atdm:door_handling_position"
 "name" "atdm_door_handling_position_1"
-"origin" "88 -1248 -16"
 "ai_no_open" "1"
+"origin" "88 -1248 -16"
+}
+// entity 90
+{
+"classname" "func_static"
+"name" "func_static_5"
+"model" "models/darkmod/mechanical/elevator_axle02.lwo"
+"origin" "-207.346 -1324.48 -96"
+"rotation" "0 0 -1 -1.11022e-16 1 0 1 1.11022e-16 0"
+}
+// entity 91
+{
+"classname" "func_static"
+"name" "func_static_6"
+"model" "models/darkmod/mechanical/switches/lever_housing02_small.lwo"
+"origin" "-207.346 -1332.49 -16"
+"rotation" "-1.11022e-16 1 0 0 0 -1 -1 -1.11022e-16 0"
+}
+// entity 92
+{
+"classname" "atdm:switch_rotate_lever"
+"name" "lever2"
+"frobbox_size" "25"
+"model" "models/darkmod/mechanical/switches/lever_small1.lwo"
+"origin" "-207.346 -1332.49 -16"
+"rotate" "0 0 -115"
+"rotation" "1.11022e-16 -1 0 -0.74545 -5.55112e-17 0.666561 -0.666561 -5.55112e-17 -0.745451"
+"target0" "watch_station_gate2"
+"target1" "watch_station_gate3"
 }
