@@ -2,17 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "4618" } 
-		KeyValue { "LastCameraAngle" "-7.5 140.7 0" } 
-		KeyValue { "LastCameraPosition" "604.632 441.03 -445.803" } 
+		KeyValue { "EditTimeInSeconds" "4834" } 
+		KeyValue { "LastCameraAngle" "-5.1 192.6 0" } 
+		KeyValue { "LastCameraPosition" "831.674 494.707 -471.422" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/brick_rubble_cream" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 4618 }
-	}
-	SelectionSets
-	{
+		TotalSecondsEdited { 4834 }
 	}
 	Layers
 	{
@@ -192,6 +189,7 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (atdm_torch_metal_wall_3)
 		Node { 0 } // entity (atdm_torch_metal_wall_4)
 		Node { 0 } // entity (atdm_torch_metal_wall_5)
+		Node { 0 } // entity (light_2)
 	}
 	SelectionGroups
 	{
@@ -273,5 +271,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 66 ) ( 1 ) } // entity (VineArrowsHard)
 		Node { ( 67 ) ( 1 ) } // entity (VineArrowsExpert)
 		Node { ( 68 ) ( 1 ) } // entity (atdm_location_settings_1)
+	}
+	SelectionSets
+	{
 	}
 }
