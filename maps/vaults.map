@@ -2465,10 +2465,47 @@ patchDef2
 {
 "classname" "light"
 "name" "light_2"
+"_color" "0.12 0.12 0.11"
 "light_center" "0 0 0"
 "light_radius" "592 472 320"
 "origin" "648 456 -496"
 "shaderParm3" "900"
 "texture" "tdm_fogs/cloud_fog"
-"_color" "0.12 0.12 0.11"
+}
+// entity 77
+{
+"classname" "func_static"
+"name" "func_static_1"
+"model" "models/darkmod/furniture/tables/dining_table_small01.lwo"
+"origin" "760 584 -550.509"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 78
+{
+"classname" "otdm:candle_holder_short"
+"name" "otdm_candle_holder_short_1"
+"origin" "741 585 -527.541"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 79
+{
+"classname" "otdm:candle_holder_small"
+"name" "otdm_candle_holder_small_1"
+"origin" "756 584 -532.815"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 80
+{
+"classname" "otdm:candle_default"
+"name" "otdm_candle_default_1"
+"origin" "772 584 -526.131"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 81
+{
+"classname" "atdm:moveable_holder_tall_plus_candle_short"
+"name" "atdm_moveable_holder_tall_plus_candle_short_1"
+"origin" "788 584 -526.829"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"frob_action_script" "frob_light_holder_ext"
 }

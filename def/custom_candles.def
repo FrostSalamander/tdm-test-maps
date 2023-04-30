@@ -1,0 +1,158 @@
+
+entityDef otdm:candle_default
+{
+	"inherit"				"atdm:static_light_lit_base"
+
+	"skin_unlit"			"tdm_candle_a_unlit"
+	"skin_lit"				"tdm_candle_a_lit"
+	"skin"					"tdm_candle_a_lit"
+
+	"noshadows_lit"			"1"				// turn off shadow when lit
+	"noshadows"				"0"				// unlit, so it has shadows
+	"extinguished"			"0"
+
+	// attach the non-light, so the candle can be lit by fire stims
+	"def_attach"			"light_candleflame"
+	"pos_attach"			"flame_sp"			// At the attach point called "flame"...
+	"attach_pos_name_1"		"flame_sp"			// ... which is defined here.
+	"name_attach"			"flame"			// Set a name to pass along spawnargs
+	"attach_pos_origin_1"	"0 0 0"		// Offset the flame X units in the Z direction
+	"model" 			"models/darkmod/lights/extinguishable/candle_default.lwo"
+
+	"snd_bounce"			"tdm_impact_tiny"
+	"bouncyness"			"0.02"
+	"friction"				"0.1"
+	"scriptobject"			"tdm_light_holder"
+	
+	"frobable"				"1"
+	"frob_action_script"	"frob_light_holder_ext"
+}
+entityDef otdm:candle_short
+{
+	"inherit"			"atdm:static_light_lit_base"
+
+	"frobable"			"1"
+	// upon using the candle when carrying it around, extinguish our bound flames and switch skin
+	"frob_action_script"	"frob_light_holder_ext"
+
+	"skin_unlit"			"tdm_candle_c_unlit"
+	"skin_lit"				"tdm_candle_c_lit"
+	"skin"					"tdm_candle_c_lit"
+
+	"noshadows_lit"			"1"				// turn off shadow when lit
+	"noshadows"				"0"				// unlit, so it has shadows
+	"extinguished"			"1"
+
+	// attach the non-light, so the candle can be lit by fire stims
+	"def_attach"			"light_candleflame"
+	"pos_attach"			"flame_sp"			// At the attach point called "flame"...
+	"attach_pos_name_1"		"flame_sp"			// ... which is defined here.
+	"name_attach"			"flame"			// Set a name to pass along spawnargs
+	"attach_pos_origin_1"	"0 0 0"		// Offset the flame X units in the Z direction
+
+	"snd_bounce"			"tdm_impact_tiny"
+	"bouncyness"			"0.02"
+	"friction"				"0.1"
+
+	"scriptobject"			"tdm_light_holder"
+	"model" 			"models/darkmod/lights/extinguishable/candle_short.lwo"
+}
+entityDef otdm:candle_holder_short
+{
+	"inherit"				"atdm:static_light_lit_base"
+	"model" 				"models/darkmod/lights/extinguishable/candle_holder_round.lwo"
+
+	"snd_bounce"			"tdm_impact_candleholder_large"
+	"bouncyness"			"0.01"
+	"friction"				"0.1"
+
+	"extinguished"			"0"
+
+	"editor_bool noshadows_lit"			"If set to true, the model of the light holder will only cast a shadow when all attached flames are extinguished. That avoids ugly selfshadows from the attached light, but still keeps shadows from other lightsources to aid depth perception and realism. If set to true, also set 'noshadows' to true for unlit and to false for the lit version."
+
+	"noshadows_lit"			"1"				// turn off shadow when lit
+	"noshadows"				"0"				// unlit, so it has shadows
+
+	"frobable"			"1"
+	// extinguish attached flames when held in the grabber and "use" is pressed:
+	"frob_action_script"		"frob_light_holder_ext"
+
+	"scriptobject"				"tdm_light_holder"
+	
+	// attach the candle
+	"def_attach"			"atdm:moveable_candle_short"
+	"pos_attach"			"candle"		// At the attach point called "candle"...
+	"attach_pos_name_1"		"candle"		// ... which is defined here.
+	"name_attach"			"candle"		// Set a name to pass along spawnargs
+	"attach_pos_origin_1"	"0 0 14.5"		// Offset the candle x, y, z
+	
+		"def_attach3"            "light_candle_circle01"
+	"pos_attach3"              "shadow"
+        "attach_pos_name_3"       "shadow"
+        "attach_pos_origin_3"    "0 0 -7"
+}
+
+entityDef otdm:candle_holder_small
+{
+	"inherit"				"atdm:static_light_lit_base"
+	"model" 				"models/darkmod/lights/extinguishable/candle_holder_empty.lwo"
+
+         "snd_bounce"               "tdm_impact_candleholder_small"
+        // to make LightsToggle() work:
+	"extinguished"			"0"
+	
+	"frobable"			"1"
+	// extinguish attached flames when held in the grabber and "use" is pressed:
+	"frob_action_script"		"frob_light_holder_ext"
+
+	"scriptobject"				"tdm_light_holder"
+
+	"noshadows_lit"			"1"				// turn off shadow when lit
+	"noshadows"				"0"				// unlit, so it has shadows
+	
+	// attach the candle
+	"def_attach"			"atdm:moveable_candle_default2"
+	"pos_attach"			"candle"		// At the attach point called "candle"...
+	"attach_pos_name_1"		"candle"		// ... which is defined here.
+	"name_attach"			"candle"		// Set a name to pass along spawnargs
+	"attach_pos_origin_1"	"-.6 -.5 14.5"		// Offset the candle x, y, z
+	
+	 	"def_attach3"            "light_candle_circle01"
+	"pos_attach3"              "shadow"
+        "attach_pos_name_3"       "shadow"
+        "attach_pos_origin_3"    "0 0 -3"
+
+
+}
+
+entityDef otdm:fireplace
+{
+	"inherit"				"atdm:static_light_lit_base"
+	"model"					"models/darkmod/fireplace/burntwood.lwo"
+	"extinguished"			"0"
+	"scriptobject"			"tdm_light_holder"
+	"def_attach"			"light_fireflames"
+	"pos_attach"			"flame"
+	"name_attach"			"flame"
+	"attach_pos_name_1"		"flame"
+	"attach_pos_origin_1"	"0 0 5"
+	"set light_radius on flame"	"200 200 200"
+	"set _color on flame"		"0.714 0.600 0.537"
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
