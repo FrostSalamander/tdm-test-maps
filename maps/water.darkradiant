@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "881" } 
-		KeyValue { "LastCameraAngle" "-32.6 136.4 0" } 
-		KeyValue { "LastCameraPosition" "352.159 197.999 -494.337" } 
+		KeyValue { "EditTimeInSeconds" "1542" } 
+		KeyValue { "LastCameraAngle" "-67 119.4 0" } 
+		KeyValue { "LastCameraPosition" "335.47 111.658 -336.277" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/blocks_large_mildew" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 881 }
+		TotalSecondsEdited { 1542 }
 	}
 	SelectionSets
 	{
@@ -30,12 +30,6 @@ DarkRadiant Map Information File Version 2
 	NodeToLayerMapping
 	{
 		Node { 0 } // entity (world)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -131,16 +125,18 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (atdm_location_settings_1)
 		Node { 0 } // entity (info_player_start_1)
 		Node { 0 } // entity (atdm_torch_metal_wall_1)
-		Node { 0 } // entity (atdm_liquid_water_1)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_liquid_water_2)
-		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_torch_metal_wall_2)
 		Node { 0 } // entity (atdm_torch_metal_wall_3)
 		Node { 0 } // entity (atdm_torch_metal_wall_4)
 		Node { 0 } // entity (atdm_torch_metal_wall_5)
 		Node { 0 } // entity (atdm_torch_metal_wall_6)
+		Node { 0 } // entity (atdm_liquid_water_1)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (atdm_liquid_water_2)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (atdm_torch_metal_wall_7)
 	}
 	SelectionGroups
 	{
