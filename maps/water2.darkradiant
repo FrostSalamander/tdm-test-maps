@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1587" } 
-		KeyValue { "LastCameraAngle" "-53 283.6 0" } 
+		KeyValue { "EditTimeInSeconds" "1631" } 
+		KeyValue { "LastCameraAngle" "-25 322.4 0" } 
 		KeyValue { "LastCameraPosition" "278.191 188.371 -277.438" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/blocks_large_mildew" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 1587 }
+		TotalSecondsEdited { 1631 }
 	}
 	SelectionSets
 	{
@@ -130,13 +130,15 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (atdm_torch_metal_wall_4)
 		Node { 0 } // entity (atdm_torch_metal_wall_5)
 		Node { 0 } // entity (atdm_torch_metal_wall_6)
-		Node { 0 } // entity (atdm_liquid_water_1)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_liquid_water_2)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_torch_metal_wall_7)
+		Node { 0 } // entity (atdm_liquid_water_1)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (atdm_liquid_water_3)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (atdm_liquid_water_4)
+		Node { 0 } // brush (Brush)
 	}
 	SelectionGroups
 	{
