@@ -1,0 +1,1673 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+"editor_description" "Simple test map consisting of a large room with a player start and a blue room comprising the mapstartpack_complete prefab. The ambient world has been brightened to 0.1 0.1 0.1."
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -240 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -680 ) ( ( 0.015625 0 -52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2872 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -344 ) ( ( 0.015625 0 52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -3896 ) ( ( 0.015625 0 2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 208 ) ( ( 0.007811999879777431 0 -1.312415979802608 ) ( 0 0.007811999879777431 -26.43580759316683 ) ) "textures/darkmod/wood/boards/pier_platform" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -208 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -712 ) ( ( 0.015625 0 -52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2872 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -48 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -52.875 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -3896 ) ( ( 0.015625 0 2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 680 ) ( ( 0.007811999879777431 0 26.43580759316683 ) ( 0 0.007811999879777431 -0.3749759942293167 ) ) "textures/darkmod/wood/boards/pier_platform" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 0 1 -208 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -680 ) ( ( 0.015625 0 -52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2840 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -48 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -344 ) ( ( 0.015625 0 52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2872 ) ( ( 0.007811999879777431 0 1.312415979802608 ) ( 0 0.007811999879777431 -0.3749759942293167 ) ) "textures/darkmod/wood/boards/pier_platform" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 1 0 -680 ) ( ( 0.015625 0 -52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2872 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -80 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -344 ) ( ( 0.015625 0 52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -3896 ) ( ( 0.015625 0 2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 48 ) ( ( 0.007811999879777431 0 -1.312415979802608 ) ( 0 0.007811999879777431 26.43580759316683 ) ) "textures/darkmod/wood/boards/pier_platform" 0 0 0
+}
+}
+// primitive 4
+{
+brushDef3
+{
+( 0 0 1 -208 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 52.875 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2872 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -48 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -376 ) ( ( 0.015625 0 52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -3896 ) ( ( 0.015625 0 2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 344 ) ( ( 0.007811999879777431 0 -26.43580759316683 ) ( 0 0.007811999879777431 -0.3749759942293167 ) ) "textures/darkmod/wood/boards/pier_platform" 0 0 0
+}
+}
+// primitive 5
+{
+brushDef3
+{
+( 0 0 1 -208 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -680 ) ( ( 0.015625 0 -52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -48 ) ( ( 0.015625 0 -2.625 ) ( 0 0.015625 -52.875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -344 ) ( ( 0.015625 0 52.875 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -3928 ) ( ( 0.015625 0 2.625 ) ( 0 0.015625 -0.75 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 3896 ) ( ( 0.007811999879777431 0 -1.312415979802608 ) ( 0 0.007811999879777431 -0.3749759942293167 ) ) "textures/darkmod/wood/boards/pier_platform" 0 0 0
+}
+}
+// primitive 6
+{
+brushDef3
+{
+( 0 0 1 -168 ) ( ( 0.0625 0 101.90625 ) ( 0 0.0625 220.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 584 ) ( ( 0.0625 0 -156.3125 ) ( 0 0.0625 6.28125 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2448 ) ( ( 0.0625 0 101.9062500000002 ) ( 0 0.0625 6.281249999999986 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -872 ) ( ( 0.0625 0 220.3125 ) ( 0 0.0625 6.28125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2576 ) ( ( 0.0625 0 -37.90625 ) ( 0 0.0625 6.28125 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 160 ) ( ( 0.0625 0 101.9062499999999 ) ( 0 0.0625 -157.3125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 7
+{
+brushDef3
+{
+( 0 0 1 -160 ) ( ( 0.0625 0 101.90625 ) ( 0 0.0625 220.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 576 ) ( ( 0.0625 0 -156.3125 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2448 ) ( ( 0.0625 0 101.90625 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 32 ) ( ( 0.0625 0 101.90625 ) ( 0 0.0625 -156.3125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2576 ) ( ( 0.0625 0 -37.90625 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -584 ) ( ( 0.0625 0 221.3125 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 8
+{
+brushDef3
+{
+( 0 1 0 584 ) ( ( 0.0625 0 -156.3125 ) ( 0 0.0625 5.28125 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2448 ) ( ( 0.0625 0 101.90625 ) ( 0 0.0625 5.28125 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 24 ) ( ( 0.0625 0 101.9062499999999 ) ( 0 0.0625 -156.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -872 ) ( ( 0.0625 0 219.8125 ) ( 0 0.0625 5.28125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2576 ) ( ( 0.0625 0 -37.90625 ) ( 0 0.0625 5.281249999999999 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 -32 ) ( ( 0.0625 0 101.9062500000002 ) ( 0 0.0625 221.3125000000003 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 9
+{
+brushDef3
+{
+( 0 0 1 -160 ) ( ( 0.0625 0 51.03125 ) ( 0 0.0625 220.5 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2448 ) ( ( 0.0625 0 51.03125 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 32 ) ( ( 0.0625 0 51.03125 ) ( 0 0.0625 -156.5 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -880 ) ( ( 0.0625 0 220.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2576 ) ( ( 0.0625 0 12.96875 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 872 ) ( ( 0.0625 0 -157.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 10
+{
+brushDef3
+{
+( 0 0 1 -160 ) ( ( 0.0625 0 102.5000000000012 ) ( 0 0.0625 221.0000000000004 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 584 ) ( ( 0.0625 0 -157 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 32 ) ( ( 0.0625 0 102.5000000000012 ) ( 0 0.0625 -157 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -872 ) ( ( 0.0625 0 221 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2584 ) ( ( 0.0625 0 -38.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2576 ) ( ( 0.0625 0 102.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 11
+{
+brushDef3
+{
+( 0 0 1 -160 ) ( ( 0.0625 0 102.5000000000012 ) ( 0 0.0625 212.5000000000004 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 584 ) ( ( 0.0625 0 -148.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 32 ) ( ( 0.0625 0 102.5000000000012 ) ( 0 0.0625 -148.5 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -872 ) ( ( 0.0625 0 212.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -2448 ) ( ( 0.0625 0 -38.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 2440 ) ( ( 0.0625 0 102.5 ) ( 0 0.0625 5.78125 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 12
+{
+brushDef3
+{
+( 0 0 1 -128 ) ( ( -0.004883000161498785 0 17.30532554909587 ) ( 0 0.004883000161498785 16.8366325981915 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3632 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 112 ) ( ( -0.004883000161498785 0 -0.6946735382080007 ) ( 0 -0.004883000161498785 17.91476058959961 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -392 ) ( ( 0.004883000161498785 0 -20.34386618807912 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 256 ) ( ( 0.004883000161498785 0 15.79033500701189 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3544 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+// primitive 13
+{
+brushDef3
+{
+( 0 0 1 -128 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 112 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3456 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 256 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3544 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -320 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+// primitive 14
+{
+brushDef3
+{
+( 0 0 1 -128 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 112 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -392 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3544 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3504 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 360 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+// primitive 15
+{
+brushDef3
+{
+( 0 0 1 -128 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 112 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -392 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 320 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3504 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3456 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+// primitive 16
+{
+brushDef3
+{
+( 0 0 1 -184 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -368 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3456 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 176 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 312 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3632 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+// primitive 17
+{
+brushDef3
+{
+( 0 0 1 -176 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -312 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3456 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 128 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 304 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3632 ) ( ( 0.004883000161498785 0 -0.6946735382080078 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+// primitive 18
+{
+brushDef3
+{
+( 0 0 1 -176 ) ( ( 0.004883000161498785 0 -1.007185548543923 ) ( 0 0.004883000161498785 0.7266000211238861 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 1 0 -376 ) ( ( 0.004883000161498785 0 -0.6946735382081215 ) ( 0 0.004883000161498786 0.7266000211238857 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 1 0 0 3456 ) ( ( 0.004883000161498785 0 -1.007185548543944 ) ( 0 0.004883000161498785 0.7266000211238888 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 0 -1 128 ) ( ( 0.004883000161498785 0 -1.007185548543909 ) ( 0 0.004883000161498785 0.7266000211239998 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( 0 -1 0 368 ) ( ( 0.004883000161498785 0 -0.6946735382079652 ) ( 0 0.004883000161498786 0.7266000211238857 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+( -1 0 0 -3632 ) ( ( 0.004883000161498785 0 -0.382161527872114 ) ( 0 0.004883000161498785 0.7266000211238852 ) ) "textures/darkmod/stone/brick/grey_largeblocks01" 0 0 0
+}
+}
+}
+// entity 1
+{
+"classname" "light"
+"name" "ambient_world"
+"_color" "0.1 0.1 0.1"
+"light_center" "0 0 0"
+"light_radius" "10280 10280 10280"
+"nodiffuse" "0"
+"noshadows" "0"
+"nospecular" "0"
+"origin" "-2476 -616 128"
+"parallel" "0"
+"texture" "lights/ambientlightnfo"
+}
+// entity 2
+{
+"classname" "atdm:target_addobjectives"
+"name" "Objectives"
+"angle" "90.000000"
+"obj1_1_args" "1"
+"obj1_1_irreversible" "0"
+"obj1_1_not" "0"
+"obj1_1_player_responsible" "0"
+"obj1_1_spec1" "name"
+"obj1_1_spec_val1" "ItemName"
+"obj1_1_state" "0"
+"obj1_1_type" "item"
+"obj1_desc" "Get or Steal a Special Object"
+"obj1_irreversible" "0"
+"obj1_mandatory" "1"
+"obj1_ongoing" "0"
+"obj1_state" "0"
+"obj1_visible" "1"
+"obj2_1_args" "1"
+"obj2_1_irreversible" "0"
+"obj2_1_not" "0"
+"obj2_1_player_responsible" "0"
+"obj2_1_spec1" "overall"
+"obj2_1_state" "0"
+"obj2_1_type" "item"
+"obj2_desc" "Get Loot (Easy)"
+"obj2_difficulty" "0"
+"obj2_irreversible" "0"
+"obj2_mandatory" "1"
+"obj2_ongoing" "0"
+"obj2_state" "0"
+"obj2_visible" "1"
+"obj3_1_args" "2"
+"obj3_1_irreversible" "0"
+"obj3_1_not" "0"
+"obj3_1_player_responsible" "0"
+"obj3_1_spec1" "overall"
+"obj3_1_state" "0"
+"obj3_1_type" "item"
+"obj3_desc" "Get Loot (Hard)"
+"obj3_difficulty" "1"
+"obj3_irreversible" "0"
+"obj3_mandatory" "1"
+"obj3_ongoing" "0"
+"obj3_state" "0"
+"obj3_visible" "1"
+"obj4_1_args" "3"
+"obj4_1_irreversible" "0"
+"obj4_1_not" "0"
+"obj4_1_player_responsible" "0"
+"obj4_1_spec1" "overall"
+"obj4_1_state" "0"
+"obj4_1_type" "item"
+"obj4_desc" "Get Loot (Expert)"
+"obj4_difficulty" "2"
+"obj4_irreversible" "0"
+"obj4_mandatory" "1"
+"obj4_ongoing" "0"
+"obj4_state" "0"
+"obj4_visible" "1"
+"obj5_1_args" "1"
+"obj5_1_irreversible" "1"
+"obj5_1_not" "1"
+"obj5_1_player_responsible" "1"
+"obj5_1_spec1" "overall"
+"obj5_1_state" "1"
+"obj5_1_type" "kill"
+"obj5_desc" "No killing (on Expert)"
+"obj5_difficulty" "2"
+"obj5_irreversible" "1"
+"obj5_mandatory" "1"
+"obj5_ongoing" "1"
+"obj5_state" "0"
+"obj5_visible" "1"
+"obj6_1_args" "0"
+"obj6_1_irreversible" "0"
+"obj6_1_not" "0"
+"obj6_1_player_responsible" "0"
+"obj6_1_spec1" "spawnclass"
+"obj6_1_spec2" "name"
+"obj6_1_spec_val1" "idPlayer"
+"obj6_1_spec_val2" "EscZone"
+"obj6_1_state" "0"
+"obj6_1_type" "location"
+"obj6_desc" "Go To Room X, eg, When all objectives done, return to start (modify Enabling Objectives if different)"
+"obj6_enabling_objs" "1 AND (2 OR 3 OR 4)"
+"obj6_irreversible" "0"
+"obj6_mandatory" "1"
+"obj6_ongoing" "0"
+"obj6_state" "0"
+"obj6_visible" "1"
+"origin" "-2552 -616 80"
+}
+// entity 3
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2567 -638.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 4
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2555 -638.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 5
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2545 -638.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 6
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2529 -638.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 7
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2457 -688.5 91.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 8
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2505.38 -689.25 91.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 9
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2517 -638.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 10
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2565 -688.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 11
+{
+"classname" "atdm:key_fancy02"
+"name" "key_master"
+"inv_icon" "guis/assets/hud/inventory_icons/key_good_red"
+"inv_map_start" "1"
+"inv_name" "MASTER KEY"
+"inv_stackable" "0"
+"nodrop" "1"
+"origin" "-2456 -616 112"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "bc_key02red"
+}
+// entity 12
+{
+"classname" "atdm:shop"
+"name" "ShopItems"
+"angle" "90.000000"
+"diff_0_shop_gold_start" "800"
+"diff_1_shop_gold_start" "600"
+"diff_2_shop_gold_start" "400"
+"origin" "-2504 -616 80"
+"shopItem_11_0_qty" "0"
+"shopItem_11_1_qty" "0"
+"shopItem_11_2_qty" "0"
+"shopItem_11_item" "atdm:playertools_compass"
+"shopItem_12_0_qty" "0"
+"shopItem_12_1_qty" "0"
+"shopItem_12_2_qty" "0"
+"shopItem_12_item" "atdm:playertools_lantern"
+"shopItem_13_0_qty" "0"
+"shopItem_13_1_qty" "0"
+"shopItem_13_2_qty" "0"
+"shopItem_13_item" "atdm:playertools_spyglass"
+"shopItem_15_0_qty" "0"
+"shopItem_15_1_qty" "0"
+"shopItem_15_2_qty" "0"
+"shopItem_15_item" "atdm:playertools_mine"
+"shopItem_16_0_qty" "0"
+"shopItem_16_1_qty" "0"
+"shopItem_16_2_qty" "0"
+"shopItem_16_item" "atdm:playertools_flashbomb"
+"shopItem_17_0_qty" "0"
+"shopItem_17_1_qty" "0"
+"shopItem_17_2_qty" "0"
+"shopItem_17_item" "atdm:playertools_holywater"
+"shopItem_18_0_qty" "0"
+"shopItem_18_1_qty" "0"
+"shopItem_18_2_qty" "0"
+"shopItem_18_item" "atdm:playertools_health_potion"
+"shopItem_19_0_qty" "0"
+"shopItem_19_1_qty" "0"
+"shopItem_19_2_qty" "0"
+"shopItem_19_item" "atdm:playertools_breath_potion"
+"shopItem_1_0_qty" "0"
+"shopItem_1_1_qty" "0"
+"shopItem_1_2_qty" "0"
+"shopItem_1_item" "atdm:weapon_shortsword"
+"shopItem_20_0_qty" "0"
+"shopItem_20_1_qty" "0"
+"shopItem_20_2_qty" "0"
+"shopItem_20_item" "atdm:weapon_vinearrow"
+"shopItem_2_0_qty" "0"
+"shopItem_2_1_qty" "0"
+"shopItem_2_2_qty" "0"
+"shopItem_2_item" "atdm:weapon_blackjack"
+"shopItem_3_0_qty" "0"
+"shopItem_3_1_qty" "0"
+"shopItem_3_2_qty" "0"
+"shopItem_3_item" "atdm:weapon_waterarrow"
+"shopItem_4_0_qty" "0"
+"shopItem_4_1_qty" "0"
+"shopItem_4_2_qty" "0"
+"shopItem_4_item" "atdm:weapon_broadhead"
+"shopItem_5_0_qty" "0"
+"shopItem_5_1_qty" "0"
+"shopItem_5_2_qty" "0"
+"shopItem_5_item" "atdm:weapon_ropearrow"
+"shopItem_6_0_qty" "0"
+"shopItem_6_1_qty" "0"
+"shopItem_6_2_qty" "0"
+"shopItem_6_item" "atdm:weapon_mossarrow"
+"shopItem_7_0_qty" "0"
+"shopItem_7_1_qty" "0"
+"shopItem_7_2_qty" "0"
+"shopItem_7_item" "atdm:weapon_noisemaker"
+"shopItem_8_0_qty" "0"
+"shopItem_8_1_qty" "0"
+"shopItem_8_2_qty" "0"
+"shopItem_8_item" "atdm:weapon_firearrow"
+"shopItem_9_0_qty" "0"
+"shopItem_9_1_qty" "0"
+"shopItem_9_2_qty" "0"
+"shopItem_9_item" "atdm:weapon_gasarrow"
+"startingitem_11_0_qty" "0"
+"startingitem_11_1_qty" "0"
+"startingitem_11_2_qty" "0"
+"startingitem_11_item" "atdm:playertools_compass"
+"startingitem_12_0_qty" "0"
+"startingitem_12_1_qty" "0"
+"startingitem_12_2_qty" "0"
+"startingitem_12_item" "atdm:playertools_lantern"
+"startingitem_13_0_qty" "0"
+"startingitem_13_1_qty" "0"
+"startingitem_13_2_qty" "0"
+"startingitem_13_item" "atdm:playertools_spyglass"
+"startingitem_15_0_qty" "0"
+"startingitem_15_1_qty" "0"
+"startingitem_15_2_qty" "0"
+"startingitem_15_item" "atdm:playertools_mine"
+"startingitem_16_0_qty" "0"
+"startingitem_16_1_qty" "0"
+"startingitem_16_2_qty" "0"
+"startingitem_16_item" "atdm:playertools_flashbomb"
+"startingitem_17_0_qty" "0"
+"startingitem_17_1_qty" "0"
+"startingitem_17_2_qty" "0"
+"startingitem_17_item" "atdm:playertools_holywater"
+"startingitem_18_0_qty" "0"
+"startingitem_18_1_qty" "0"
+"startingitem_18_2_qty" "0"
+"startingitem_18_item" "atdm:playertools_health_potion"
+"startingitem_19_0_qty" "0"
+"startingitem_19_1_qty" "0"
+"startingitem_19_2_qty" "0"
+"startingitem_19_item" "atdm:playertools_breath_potion"
+"startingitem_1_0_qty" "0"
+"startingitem_1_1_qty" "0"
+"startingitem_1_2_qty" "0"
+"startingitem_1_item" "atdm:weapon_shortsword"
+"startingitem_20_0_qty" "0"
+"startingitem_20_1_qty" "0"
+"startingitem_20_2_qty" "0"
+"startingitem_20_item" "atdm:weapon_vinearrow"
+"startingitem_2_0_qty" "0"
+"startingitem_2_1_qty" "0"
+"startingitem_2_2_qty" "0"
+"startingitem_2_item" "atdm:weapon_blackjack"
+"startingitem_3_0_qty" "0"
+"startingitem_3_1_qty" "0"
+"startingitem_3_2_qty" "0"
+"startingitem_3_item" "atdm:weapon_waterarrow"
+"startingitem_4_0_qty" "0"
+"startingitem_4_1_qty" "0"
+"startingitem_4_2_qty" "0"
+"startingitem_4_item" "atdm:weapon_broadhead"
+"startingitem_5_0_qty" "0"
+"startingitem_5_1_qty" "0"
+"startingitem_5_2_qty" "0"
+"startingitem_5_item" "atdm:weapon_ropearrow"
+"startingitem_6_0_qty" "0"
+"startingitem_6_1_qty" "0"
+"startingitem_6_2_qty" "0"
+"startingitem_6_item" "atdm:weapon_mossarrow"
+"startingitem_7_0_qty" "0"
+"startingitem_7_1_qty" "0"
+"startingitem_7_2_qty" "0"
+"startingitem_7_item" "atdm:weapon_noisemaker"
+"startingitem_8_0_qty" "0"
+"startingitem_8_1_qty" "0"
+"startingitem_8_2_qty" "0"
+"startingitem_8_item" "atdm:weapon_firearrow"
+"startingitem_9_0_qty" "0"
+"startingitem_9_1_qty" "0"
+"startingitem_9_2_qty" "0"
+"startingitem_9_item" "atdm:weapon_gasarrow"
+}
+// entity 13
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2568 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 14
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2568 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 15
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2568 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 16
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2552 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 17
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2552 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 18
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2552 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 19
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2536 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 20
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2536 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 21
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2536 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 22
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2520 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 23
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2520 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 24
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2520 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 25
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2504 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 26
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2504 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 27
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2504 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 28
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2488 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 29
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2488 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 30
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2488 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 31
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2456 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 32
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2456 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 33
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2456 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 34
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2505.38 -705.25 91.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 35
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2505.38 -721.25 91.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 36
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2457 -704.5 91.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 37
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2457 -720.5 91.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 38
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2567 -654.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 39
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2567 -670.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 40
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2555 -654.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 41
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2555 -670.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 42
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2545 -654.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 43
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2545 -670.5 140.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 44
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2565 -704.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 45
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2565 -720.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 46
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2529 -654.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 47
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2529 -670.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 48
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2517 -654.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 49
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2517 -670.5 115.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 50
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2474 -638 112"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 51
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2458 -638 112"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 52
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2534 -688 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 53
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2518 -688 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 54
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2550 -688 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 55
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2474 -654 112"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 56
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2474 -670 112"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 57
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2458 -654 112"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 58
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2458 -670 112"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 59
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2550 -704 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 60
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2550 -720 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 61
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2534 -704 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 62
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2534 -720 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 63
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2518 -704 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 64
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"nodrop" "1"
+"origin" "-2518 -720 112"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 65
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsEasy"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2472 -768 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 66
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsHard"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2472 -816 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 67
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsExpert"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"nodrop" "1"
+"origin" "-2472 -864 72"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 68
+{
+"classname" "atdm:location_settings"
+"name" "atdm_location_settings_1"
+"ambient_light_dist_scale" "1.0"
+"ambient_light_dynamic_cap" "0.1 0.1 0.1"
+"ambient_light_falloff" "0"
+"angle" "90.000000"
+"origin" "-2528 -616 80"
+}
+// entity 69
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"angle" "90.000000"
+"origin" "-3552 224 -48"
+}
+// entity 70
+{
+"classname" "func_static"
+"name" "func_static_3478"
+"model" "models/darkmod/readables/bookrow1.lwo"
+"origin" "-3588 352 -12"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "bookshelf02_desaturated"
+}
+// entity 71
+{
+"classname" "func_static"
+"name" "func_static_3480"
+"areaLock" "origin"
+"model" "models/darkmod/kitchen/beer_stein02.lwo"
+"origin" "-3600 336 0"
+"rotation" "0.608903 -0.793245 0 0.793245 0.608903 0 0 0 1"
+}
+// entity 72
+{
+"classname" "func_static"
+"name" "func_static_3479"
+"model" "models/darkmod/tools/microscope_001.lwo"
+"origin" "-3580 336 -12"
+"rotation" "0.993447 0.114295 0 -0.114295 0.993447 0 0 0 1"
+}
+// entity 73
+{
+"classname" "func_static"
+"name" "func_static_3481"
+"model" "models/darkmod/furniture/seating/dchair2.lwo"
+"origin" "-3580 308 -28"
+"rotation" "-0.984962 0.172771 0 -0.172771 -0.984962 0 0 0 1"
+}
+// entity 74
+{
+"classname" "atdm:mover_door_sliding"
+"name" "desk2_drawer65"
+"accel_time" "0.4"
+"bind" "desk17"
+"immune_to_target_setfrobable" "1"
+"model" "models/darkmod/furniture/desk2_drawer.lwo"
+"move_time" "1"
+"origin" "-3604 324 -28"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"snd_close" "frob_drawer_close"
+"snd_open" "frob_drawer_open"
+"target" "desk2_drawer_frobcontrol54"
+"translate" "0 -16 0"
+"trigger_on_close" "1"
+"trigger_on_open" "1"
+}
+// entity 75
+{
+"classname" "atdm:mover_door_sliding"
+"name" "desk2_drawer66"
+"accel_time" "0.4"
+"bind" "desk17"
+"immune_to_target_setfrobable" "1"
+"model" "models/darkmod/furniture/desk2_drawer.lwo"
+"move_time" "1"
+"origin" "-3604 324 -40"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"snd_close" "frob_drawer_close"
+"snd_open" "frob_drawer_open"
+"target" "desk2_drawer_frobcontrol56"
+"translate" "0 -16 0"
+"trigger_on_close" "1"
+"trigger_on_open" "1"
+}
+// entity 76
+{
+"classname" "atdm:target_set_frobable"
+"name" "desk2_drawer_frobcontrol53"
+"model" "desk2_drawer_frobcontrol53"
+"origin" "-3540 336 -20"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -3.5 ) ( ( -0.015625 0 123.5908660887405 ) ( 0 -0.01562500000000107 -55.53619194031121 ) ) "textures/common/clip" 0 0 0
+( 0 -1 0 -11.68486564636214 ) ( ( 0.015625 0 183.5361938476562 ) ( 0 0.015625 123.0312499999964 ) ) "textures/common/clip" 0 0 0
+( -1 0 0 -10.31686498260478 ) ( ( 0.015625 0 123.5986785888672 ) ( 0 0.015625 123.0312499999995 ) ) "textures/common/clip" 0 0 0
+( 0 0 -1 -5.5 ) ( ( -0.01562500000001066 0 123.5986785888188 ) ( 0 -0.01562500000000977 183.5361938476303 ) ) "textures/common/clip" 0 0 0
+( 0 1 0 -8.315134353637859 ) ( ( 0.01562500000000277 0 -55.53619194031737 ) ( 0 0.01562500000000355 123.0312500000296 ) ) "textures/common/clip" 0 0 0
+( 1 0 0 -9.683135017395216 ) ( ( 0.015625 0 4.401325225829794 ) ( 0 0.015625 123.0312499999995 ) ) "textures/common/clip" 0 0 0
+}
+}
+}
+// entity 77
+{
+"classname" "atdm:target_set_frobable"
+"name" "desk2_drawer_frobcontrol54"
+"model" "desk2_drawer_frobcontrol54"
+"origin" "-3604 336 -20"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -3.5 ) ( ( -0.01562500000002132 0 123.5908660888156 ) ( 0 -0.01562500000001865 71.46380615219914 ) ) "textures/common/clip" 0 0 0
+( 0 -1 0 -11.68486564636214 ) ( ( 0.015625 0 56.53619194030753 ) ( 0 0.015625 123.0312499999964 ) ) "textures/common/clip" 0 0 0
+( -1 0 0 -10.31686498260478 ) ( ( 0.015625 0 123.5986785888672 ) ( 0 0.015625 123.0312499999995 ) ) "textures/common/clip" 0 0 0
+( 0 0 -1 -5.5 ) ( ( -0.01562500000001066 0 123.5986785887471 ) ( 0 -0.01562500000001066 56.53619194034573 ) ) "textures/common/clip" 0 0 0
+( 0 1 0 -8.315134353637859 ) ( ( 0.01562500000000266 0 71.46380615235014 ) ( 0 0.01562500000000355 123.031250000015 ) ) "textures/common/clip" 0 0 0
+( 1 0 0 -9.683135017395216 ) ( ( 0.015625 0 4.401325225829794 ) ( 0 0.015625 123.0312499999995 ) ) "textures/common/clip" 0 0 0
+}
+}
+}
+// entity 78
+{
+"classname" "atdm:target_set_frobable"
+"name" "desk2_drawer_frobcontrol55"
+"model" "desk2_drawer_frobcontrol55"
+"origin" "-3540 336 -36"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -4.5 ) ( ( -0.015625 0 123.5908660887405 ) ( 0 -0.01562500000000107 -55.53619194031121 ) ) "textures/common/clip" 0 0 0
+( 0 -1 0 -11.68486564636214 ) ( ( 0.015625 0 183.5361938476453 ) ( 0 0.015625 122.7968749999927 ) ) "textures/common/clip" 0 0 0
+( -1 0 0 -10.31686498260478 ) ( ( 0.015625 0 123.5986785888704 ) ( 0 0.015625 122.7968750000027 ) ) "textures/common/clip" 0 0 0
+( 0 0 -1 -4.5 ) ( ( -0.01562500000001066 0 123.5986785888188 ) ( 0 -0.01562500000000977 183.5361938476303 ) ) "textures/common/clip" 0 0 0
+( 0 1 0 -8.315134353637859 ) ( ( 0.01562499999999771 0 -55.53619194029952 ) ( 0 0.01562499999999822 122.7968749999825 ) ) "textures/common/clip" 0 0 0
+( 1 0 0 -9.683135017395216 ) ( ( 0.015625 0 4.401325225830703 ) ( 0 0.015625 122.7968750000064 ) ) "textures/common/clip" 0 0 0
+}
+}
+}
+// entity 79
+{
+"classname" "func_static"
+"name" "desk17"
+"model" "models/darkmod/furniture/desk2_nodrawers.lwo"
+"origin" "-3572 340 -48"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 80
+{
+"classname" "atdm:target_set_frobable"
+"name" "desk2_drawer_frobcontrol56"
+"model" "desk2_drawer_frobcontrol56"
+"origin" "-3604 336 -36"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -4.5 ) ( ( -0.01562500000002132 0 123.5908660888156 ) ( 0 -0.01562500000001865 71.46380615219914 ) ) "textures/common/clip" 0 0 0
+( 0 -1 0 -11.68486564636214 ) ( ( 0.015625 0 56.53619194030767 ) ( 0 0.015625 122.7968749999927 ) ) "textures/common/clip" 0 0 0
+( -1 0 0 -10.31686498260478 ) ( ( 0.015625 0 123.5986785888704 ) ( 0 0.015625 122.7968750000027 ) ) "textures/common/clip" 0 0 0
+( 0 0 -1 -4.5 ) ( ( -0.01562500000001066 0 123.5986785887471 ) ( 0 -0.01562500000001066 56.53619194034573 ) ) "textures/common/clip" 0 0 0
+( 0 1 0 -8.315134353637859 ) ( ( 0.01562499999999911 0 71.46380615232886 ) ( 0 0.01562499999999645 122.7968749999778 ) ) "textures/common/clip" 0 0 0
+( 1 0 0 -9.683135017395216 ) ( ( 0.015625 0 4.401325225830703 ) ( 0 0.015625 122.7968750000064 ) ) "textures/common/clip" 0 0 0
+}
+}
+}
+// entity 81
+{
+"classname" "atdm:mover_door_sliding"
+"name" "desk2_drawer68"
+"accel_time" "0.4"
+"bind" "desk17"
+"immune_to_target_setfrobable" "1"
+"model" "models/darkmod/furniture/desk2_drawer.lwo"
+"move_time" "1"
+"origin" "-3540 324 -40"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"snd_close" "frob_drawer_close"
+"snd_open" "frob_drawer_open"
+"target" "desk2_drawer_frobcontrol55"
+"translate" "0 -16 0"
+"trigger_on_close" "1"
+"trigger_on_open" "1"
+}
+// entity 82
+{
+"classname" "atdm:mover_door_sliding"
+"name" "desk2_drawer67"
+"accel_time" "0.4"
+"bind" "desk17"
+"immune_to_target_setfrobable" "1"
+"model" "models/darkmod/furniture/desk2_drawer.lwo"
+"move_time" "1"
+"origin" "-3540 324 -28"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"snd_close" "frob_drawer_close"
+"snd_open" "frob_drawer_open"
+"target" "desk2_drawer_frobcontrol53"
+"translate" "0 -16 0"
+"trigger_on_close" "1"
+"trigger_on_open" "1"
+}
+// entity 83
+{
+"classname" "atdm:mover_door"
+"name" "atdm_mover_door_165"
+"lock_picktype" "-"
+"lock_pins" "0"
+"locked" "0"
+"model" "atdm_mover_door_165"
+"origin" "-3504 340 112"
+"rotate" "-90 0 0"
+"transparent" "1"
+"used_by" "-"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( -0.01953100040556324 -4.218847493575595e-15 13.08508887885819 ) ( 0 -0.01953100040556421 -139.1789566875086 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -4 ) ( ( -0.01953100040553801 0 64.06334862107667 ) ( 0 -0.01953100040553712 -0.05854406952887814 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0.01953100040553535 6.661338147750939e-16 -0.1944638788763768 ) ( 0 0.01953100040553224 2.227293312513211 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 0 ) ( ( 0 -0.01953100040556421 -72.89057508113876 ) ( 0.01953100040556206 0 -4.510870128872114 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -0.7071067811865476 -0.7071067811865476 0 -14.14369055620546 ) ( ( 0 -0.0195310004057479 -8.632762104223275 ) ( 0.0195310004057454 -2.311464558883335e-14 107.1261096658636 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -0.7071067811865476 0.7071067811865476 0 -14.14109495860384 ) ( ( 0 -0.01953100040525868 -8.632762104300582 ) ( 0.01953100040526046 0 19.40170839145503 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 0 -0.01953100040555 -62.94051903486252 ) ( 0.01953100040555 0 -77.30360427498817 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -36 ) ( ( 0.01953100040555 0 77.08360400796209 ) ( 0 0.01953100040555 5.256356030702761 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 10.5 ) ( ( 0.01953100040555 0 -62.07051914930344 ) ( 0 0.01953100040555 4.936356097459793 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0 0.01953100040555 -62.77051895856857 ) ( -0.01953100040555 0 78.26360431313515 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 4 ) ( ( 0.01953100040555 0 -78.27266708016759 ) ( 0 0.01953100040555 4.866356104612521 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 -13.5 ) ( ( 0.01953100040555 0 61.3705193400383 ) ( 0 0.01953100040555 4.916356116533279 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( -0.01171899959443158 -2.151057110211241e-16 5.729440540066292 ) ( 0 -0.00976600032298558 -83.79063065338414 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -40 ) ( ( 0 -0.01171899959447131 32.20901075001484 ) ( 0.009766000323011753 0 -2.178880609560792 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0.01171899959445923 2.081668171172169e-16 -2.241006702185672 ) ( 0 0.009766000323003787 1.053119346536732 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 36 ) ( ( -0.009766000323010227 0 -33.85997573280019 ) ( 0 -0.01171899959446421 -6.813019126647532 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0.7071067811865476 0.7071067811865476 0 14.14369055620546 ) ( ( 0 -0.01171899959456901 -6.716769069551447 ) ( 0.009766000323097934 0 -51.2044327866206 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0.7071067811865476 -0.7071067811865476 0 14.14109495860384 ) ( ( 0 -0.01171899959448819 -6.716769069450493 ) ( 0.009766000323028656 0 -7.340161718340823 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 5.995204332975845e-15 -0.01953100040559438 -62.03051918761696 ) ( 0.01953100040559974 0 -78.04602637879543 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 -20 ) ( ( 0.019531000405448 0 -62.03051918707683 ) ( 0 0.01953100040544742 4.316356092683662 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 3.552713678800501e-15 0.01953100040554645 -62.03051918746451 ) ( -0.01953100040554645 0 78.04602637858989 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 16 ) ( ( 0.01953100040552885 0 62.03051918733479 ) ( 0 0.01953100040552869 4.316356092701369 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -0.7071067811865476 -0.7071067811865476 0 -14.14369055620546 ) ( ( 0.01953100040548428 2.131628207280301e-14 98.55189091581633 ) ( 0 0.01953100040548206 4.316356092682327 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0.7071067811865476 -0.7071067811865476 0 14.14109495860384 ) ( ( 0.01953100040552691 0 -10.82748916327182 ) ( 0 0.01953100040552513 4.316356092679939 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 4
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 2.581268532253489e-15 -0.01953100040559605 -62.03051918762981 ) ( 0.01953100040560174 0 -77.3429013787345 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 16 ) ( ( 0.01953100040571076 0 -62.03051918803237 ) ( 0 0.01953100040571032 4.316356092704666 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 3.108624468950438e-15 0.01953100040555641 -62.03051918749725 ) ( -0.01953100040554601 0 77.34290137862808 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 -20 ) ( ( 0.01953100040559019 0 62.03051918763549 ) ( 0 0.01953100040559086 4.316356092682298 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0.7071067811865476 0.7071067811865476 0 14.14369055620546 ) ( ( 0.01953100040594613 0 -98.55189091651118 ) ( 0 0.01953100040594968 4.3163560927145 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -0.7071067811865476 0.7071067811865476 0 -14.14109495860384 ) ( ( 0.01953100040586619 0 10.8274891627625 ) ( 0 0.01953100040586442 4.316356092730985 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 5
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 0 -0.01953100040555 -62.60051935911179 ) ( 0.01953100040555 0 -76.49079242348307 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -36 ) ( ( 0.01953100040555 0 76.83079257607733 ) ( 0 0.01953100040555 4.376356095075749 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 4.5 ) ( ( 0.01953100040555 0 -62.08051937818527 ) ( 0 0.01953100040555 4.61635610461235 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0 0.01953100040555 -62.16051930189133 ) ( -0.01953100040555 0 77.99079242348671 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 4 ) ( ( 0.01953100040555 0 -78.14985480904943 ) ( 0 0.01953100040555 5.17635610699682 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 -7.5 ) ( ( 0.01953100040555 0 61.59051913022995 ) ( 0 0.01953100040555 4.47635605931282 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 6
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 0 -0.01953100040555 -62.15051907300983 ) ( 0.01953100040555 0 -77.35235419869423 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -36 ) ( ( 0.01953100040555 0 77.51235404610816 ) ( 0 0.01953100040555 4.446356087922936 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 -13.5 ) ( ( 0.01953100040555 0 -62.54051941633224 ) ( 0 0.01953100040555 4.436356097459793 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0 0.01953100040555 -62.58051937818527 ) ( -0.01953100040555 0 78.25235477089882 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 4 ) ( ( 0.01953100040555 0 -78.4114171564579 ) ( 0 0.01953100040555 4.456356078386136 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 10.5 ) ( ( 0.01953100040555 0 61.60051935911179 ) ( 0 0.01953100040555 4.576356083154678 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 7
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 0 -0.01953100040555 -62.20051926374413 ) ( 0.01953100040555 0 -77.54516711831093 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -36 ) ( ( 0.01953100040555 0 76.89516749978429 ) ( 0 0.01953100040555 4.666356056928464 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 -7.5 ) ( ( 0.01953100040555 0 -62.80051916837692 ) ( 0 0.01953100040555 4.676356106996536 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0 0.01953100040555 -62.97051924467087 ) ( -0.01953100040555 0 78.62516704201698 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 4 ) ( ( 0.01953100040555 0 -77.97422900796209 ) ( 0 0.01953100040555 5.166356116533564 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 4.5 ) ( ( 0.01953100040555 0 61.98051899671555 ) ( 0 0.01953100040555 4.97635605931282 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 8
+{
+brushDef3
+{
+( 0 0 1 -1 ) ( ( 0 -0.01953100040555 -62.20051926374413 ) ( 0.01953100040555 0 -77.03797927498817 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 -36 ) ( ( 0.01953100040555 0 77.01797977090246 ) ( 0 0.01953100040555 4.566356092691592 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 -1.5 ) ( ( 0.01953100040555 0 -62.45051926374435 ) ( 0 0.01953100040555 4.486356109380722 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 0 ) ( ( 0 0.01953100040555 -62.41051930189133 ) ( -0.01953100040555 0 77.73797908425331 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 4 ) ( ( 0.01953100040555 0 -78.15704265237127 ) ( 0 0.01953100040555 4.596356064081363 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 -1.5 ) ( ( 0.01953100040555 0 61.56051939725876 ) ( 0 0.01953100040555 4.466356068849564 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+}
+// entity 84
+{
+"classname" "light"
+"name" "light_1"
+"origin" "-3448 112 112"
+"light_center" "0 0 0"
+"light_radius" "680 536 320"
+}
