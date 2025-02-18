@@ -1,0 +1,53 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 0 ) ( ( -6.262145598324013e-17 -0.01892957028768089 4.259153509355621 ) ( 0.0158583745360374 3.132552110169938e-17 -1.029871940612798 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 1 -2.220446049250313e-16 0 -225 ) ( ( 2.249241554299139e-16 -0.999999999999982 1 ) ( -0.015625 0 2 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( -2.220446049250313e-16 -1 0 64.00000000000003 ) ( ( -8.996966217196263e-16 -0.9999999999999568 1 ) ( -0.02040816326530611 0 4.591836929321289 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 0 0 -1 -1 ) ( ( -9.18057777264966e-18 -0.02040816326530611 252.4081633090973 ) ( -0.01562499999999996 -5.786719866083626e-17 2 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 2.220446049250313e-16 1 0 -128 ) ( ( -4.498483108598196e-16 -0.9999999999999712 1 ) ( -0.02040816326530611 0 252.4081633090973 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( -1 0 0 192 ) ( ( 2.237793284010081e-16 -0.9999999999999891 0.9999999999999999 ) ( -0.015625 0 255 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 0 ) ( ( 0.01817759165570305 -5.204170427930421e-18 -0.04415113112161506 ) ( 0 0.015625 0.4999999999999999 ) ) "textures/darkmod/carpet/runners/ornate_black_white_HD" 0 0 0
+( 1 0 0 -32 ) ( ( 0.03125 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( 0 0 -1 -1 ) ( ( 0.03125 0 0 ) ( 0 0.015625 0.5 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( -1 0 0 -32 ) ( ( 0.03125 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( 0.7071067811865475 0.7071067811865475 0 -67.88225099390856 ) ( ( 0.03125 0 -0.3535533845424652 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( 0 -1 0 -80 ) ( ( 0.03125 0 -0.5 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 0 1 0 ) ( ( 0.01307699146938535 0 -0.3261450919186752 ) ( 0 -0.01578896709700677 0.4924554121537825 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 1 0 0 -32 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 0 0 -1 -1 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.5 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 0 -1 0 -128 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( -1 0 0 -32 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+( 0 1 0 80 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white_end_HD" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 0 1 0 ) ( ( 0 0.02038741810861107 -0.4175315573554137 ) ( -0.01562499999999999 1.239088197126282e-18 1.998401444325282e-15 ) ) "textures/darkmod/carpet/runners/ornate_black_white_HD" 0 0 0
+( -2.220446049250313e-16 -1 0 64.00000000000003 ) ( ( 0.03125000000000001 0 -0.0625 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( 0 0 -1 -1 ) ( ( 1.913510623667739e-18 -0.03125000000000001 -0.0625 ) ( 0.015625 9.567553118338699e-19 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( 2.220446049250313e-16 1 0 -128 ) ( ( 0.03125000000000001 0 -0.9375 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( -0.7071067811865475 -0.7071067811865475 0 67.88225099390856 ) ( ( 0.03125000000000001 0 -0.9375 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+( 1 0 0 -192 ) ( ( 0.03125 0 -0.9374999999999991 ) ( 0 0.015625 0 ) ) "textures/darkmod/carpet/runners/ornate_black_white" 0 0 0
+}
+}
+}
